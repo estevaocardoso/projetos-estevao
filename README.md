@@ -1,3 +1,2 @@
 # myproject
-meus projetos
-É um repositório público que fiz para compratilhar meus arquivos e conhecimentos que vou adquirindo por ai.
+Meus projetos é um repositório público que fiz para compratilhar meus arquivos e conhecimentos que vou adquirindo por ai.
