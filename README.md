@@ -1,2 +1,2 @@
 # myproject
-Meus projetos é um repositório público que fiz para compratilhar meus arquivos e conhecimentos que vou adquirindo por ai.
+Este repositóro contém um data set e um código de um algoritmo para previsão de variaveis relacionadas a comóditie agricola Soja.
