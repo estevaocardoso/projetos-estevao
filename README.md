@@ -1,2 +1,2 @@
 # myproject
-Este repositóro contém um data set e um código de um algoritmo para previsão de variaveis relacionadas a comóditie agricola Soja.
+Este repositóro contém um bocado de arquivos e códigos que tenho trabalhado ao longo dos anos.
