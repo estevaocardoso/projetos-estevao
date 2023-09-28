@@ -1,13 +1,88 @@
-Version: 1.0
+#importing libraries
+library(ggplot2)
+library(ggthemes) # Load
+##############################first question####################################
+#importing the database
+datagas <- read.csv("The U.S. Gasoline Market, 52 Yearly Observations, 1953-2004.csv", header = TRUE, sep ="," )
 
-RestoreWorkspace: Default
-SaveWorkspace: Default
-AlwaysSaveHistory: Default
+#defining the new variable called qtdper
+datagas$qtdper = datagas$GASEXP/(datagas$GASP*datagas$POP)
 
-EnableCodeIndexing: Yes
-UseSpacesForTab: Yes
-NumSpacesForTab: 2
-Encoding: UTF-8
+#setting the regression model
+model = lm(qtdper ~ INCOME + GASP + PNC + PUC + PPT + PD + PN + PS + YEAR, data = datagas)
+summary(model)
 
-RnwWeave: Sweave
-LaTeX: pdfLaTeX
+# creating a data frame with the estimated values and the actual values of qtdper
+data_pred <- data.frame(Observado = datagas$YEAR, Previsto = predict(model), 
+                        Real = datagas$qtdper)
+
+# ploting the graph
+ggplot(data_pred, aes(x = Observado, y = Previsto)) +
+  geom_point(color = "blue", size = 2) +  # predicted values are blue points
+  geom_point(aes(y = Real), color = "black", size = 2) +  # actual values are red points
+  geom_abline(intercept = 0, slope = 1, color = "green", linetype = "dashed") +
+  labs(x = "Year", y = "Expenditure") +
+  ggtitle("US Per Capita Expenditure") +
+  theme_minimal() +
+  theme_economist() +
+  scale_color_economist()
+
+##############################second question###################################
+
+#apllying the FWL theorem to part out the covariates regressions
+
+# setting a list of all predict variables
+predict_variables <- c('INCOME', 'GASP', 'PNC', 'PUC', 'PPT', 'PD', 'PN', 'PS', 'YEAR')
+
+# initializing a dataframe for the residuals with the same dimentions as the original dataframe
+residuals1 <- data.frame(matrix(nrow = nrow(datagas), ncol = length(predict_variables)))
+
+# defining the name of the columns of our residuals dataframe
+colnames(residuals1) <- paste(predict_variables, 'Residual', sep = '_')
+
+# Loop to iterate inside all the predict variables: in this loop we are going to
+# estimate a regression for each predict variable on our dataframe. the idea is
+# to set a vector containing the variables and then, inside of a loop, we can iterate 
+# using teh whole vector to make each variable as input in a regression with all the 
+# others variables being the predict variables, as the FWL theorem says. note that we
+# exclude the dependent variables from the main model in this loop.
+
+for (i in 1:length(predict_variables)) {
+  variable <- predict_variables[i]
+  
+  # excluding non desirable variables from the dataframe
+  excluded_variables <- c('GASEXP', 'POP', 'qtdper')
+
+  # adjusting the regression model
+  formula <- as.formula(paste(variable, '~ . -', paste(excluded_variables, collapse = ' - ')))
+  modelo <- lm(formula, data = datagas)
+  
+  # calculating the residuals and planing them into the dataframe
+  residuals1[, i] <- residuals(modelo)
+}
+
+# show the residuals data frame
+print(residuals1)
+
+##############################third question####################################
+
+
+#builting the confident interval and placing the output in a datafrabe
+conf <- confint(model)
+
+# builting the dataframe
+results_df <- data.frame(
+  variable = rownames(conf),
+  lower_limit = conf[, 1],
+  upper_limit = conf[, 2]
+)
+
+##############################fourth question###################################
+
+#log model
+modellog = lm(log(qtdper) ~ log(INCOME) + log(GASP) + log(PNC) + log(PUC) + 
+                log(PPT) + log(PD) + log(PN) + log(PS) + YEAR, data = datagas)
+summary(model)
+
+inc <- lm(datagas$qtdper ~ residuals1$INCOME_Residual)
+summary(inc)
