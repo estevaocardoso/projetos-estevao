@@ -4,4 +4,4 @@
 
 
 # O que eu vc irá encontrar aqui?
-    Pom, muito tem sido feito por aqui, mas sendo breve, tenho trabalhado na coleta de dados para um projeto de elaboração de uma análise sobre performances de jogadores de vôlei nas principais ligas mundiais. Também com frequência aparecerão aqui as tarefas e modelos econométricos que faço como forma de por em prática o monte de conteudo que tenho visto no mestrado. além de alguns estudos e curiosidades sobre a área.
+    Bom, muito tem sido feito por aqui, mas sendo breve, tenho trabalhado na coleta de dados para um projeto de elaboração de uma análise sobre performances de jogadores de vôlei nas principais ligas mundiais. Também com frequência aparecerão aqui as tarefas e modelos econométricos que faço como forma de por em prática o monte de conteudo que tenho visto no mestrado. Além de alguns estudos e curiosidades sobre a área.
