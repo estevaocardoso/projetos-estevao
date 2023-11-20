@@ -1,4 +1,9 @@
 # Estevao Cardoso
+## Navigation
+- [Home](#home)
+- [Projects](#projects)
+- [Lessons](#lessons)
+- [Papers](#papers)
 
 ## Education
 - Undergraduate in Economics UFOPA - 2021
