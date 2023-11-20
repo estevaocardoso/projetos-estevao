@@ -1,8 +1,9 @@
-# Estevão's Projects
-    Este repositóro contém um bocado de arquivos e códigos que tenho trabalhado ao longo dos anos.
-    Pretendo ser mais ativo aqui, confia.
+# Estevao Cardoso
+### Education
+Undegraduate in Economics @ UFOPA (2021)
+Msc Student in Economics at UFPE
 
+### Projects
+- Time series analysis of retail gas stations for detection of cartels
 
-## O que eu vc irá encontrar aqui?
-    Bom, muito tem sido feito por aqui, mas sendo breve, tenho trabalhado na coleta de dados para um projeto de elaboração de uma análise sobre performances de jogadores de vôlei nas principais ligas mundiais. Também com frequência aparecerão aqui as tarefas e modelos econométricos que faço como forma de por em prática o monte de conteudo que tenho visto no mestrado. Além de alguns estudos e curiosidades sobre a área.
     
