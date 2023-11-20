@@ -1,6 +1,6 @@
 # Estevao Cardoso
 ## Navigation
-- [Home](https://drive.google.com/file/d/1rZjagmS9pWjaIJGEwFAxIQEI1yjUA6Fs/view?usp=sharing)
+- [CV](https://drive.google.com/file/d/1rZjagmS9pWjaIJGEwFAxIQEI1yjUA6Fs/view?usp=sharing)
 - [Projects](#projects)
 - [Lessons](#lessons)
 - [Papers](#papers)
