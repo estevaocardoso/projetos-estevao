@@ -1,8 +1,43 @@
-# Estevão's Projects
-    Este repositóro contém um bocado de arquivos e códigos que tenho trabalhado ao longo dos anos.
-    Pretendo ser mais ativo aqui, confia.
+# Estevao Cardoso
+## Navigation
+- [CV](https://drive.google.com/file/d/1rZjagmS9pWjaIJGEwFAxIQEI1yjUA6Fs/view?usp=sharing)
+- [Projects](#projects)
+- [Lessons](#lessons)
+- [Papers](#papers)
 
+## Education
+- Undergraduate in Economics UFOPA - 2021
+- MSc Student in Economics at UFPE - 2022/current
 
-## O que eu vc irá encontrar aqui?
-    Bom, muito tem sido feito por aqui, mas sendo breve, tenho trabalhado na coleta de dados para um projeto de elaboração de uma análise sobre performances de jogadores de vôlei nas principais ligas mundiais. Também com frequência aparecerão aqui as tarefas e modelos econométricos que faço como forma de por em prática o monte de conteudo que tenho visto no mestrado. Além de alguns estudos e curiosidades sobre a área.
+## Projects
+- Time series analysis of retail gas stations for detection of cartels
+
+## Curriculum
+### Academic Background
+- **[Degree Obtained]**: Bachelor's in Economics
+  - **[University]**: Federal University of Western Pará (UFOPA)
+  - **[Year]**: 2021
+
+### Current Pursuit
+- **[Degree Pursuing]**: Master's in Economics
+  - **[University]**: Federal University of Pernambuco (UFPE)
+
+### Professional Experience (if applicable)
+- ...
+
+### Skills
+- Massive dick
+
+### Certifications (if applicable)
+- ...
+
+### Publications (if applicable)
+- ...
+
+### Contact Information
+- Email: estevaomcs@gmail.com
+- LinkedIn: [estevaomcs](https://www.linkedin.com/in/estev%C3%A3o-cardoso-938261136/)
+
+Feel free to tailor this template according to the sections you want to include and the information you want to highlight.
+
     
