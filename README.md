@@ -30,8 +30,8 @@
 - ...
 
 ### Contact Information
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/estev%C3%A3o-cardoso-938261136/)
+- Email: estevaomcs@gmail.com
+- LinkedIn: [estevaomcs](https://www.linkedin.com/in/estev%C3%A3o-cardoso-938261136/)
 
 Feel free to tailor this template according to the sections you want to include and the information you want to highlight.
 
