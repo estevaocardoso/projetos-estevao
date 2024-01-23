@@ -1,0 +1,18 @@
+from multiprocessing import Pool, TimeoutError, Queue, Process, Pool
+import time
+import os
+
+def make_gay(numbers):
+    return numbers * numbers
+
+if __name__ == '__main__':
+    print("Now you're becoming gay")
+    numbers = range(10)
+    pool = Pool()
+    resul = pool.map(make_gay, numbers)
+    
+
+    pool.close()
+    pool.join()
+
+    print (resul)
