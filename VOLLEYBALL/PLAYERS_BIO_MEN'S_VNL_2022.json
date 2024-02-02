@@ -1,0 +1,2912 @@
+[
+  {
+    "player_num": "14",
+    "player_name": "Nimir Abdel-Aziz",
+    "position": "Opposite spiker",
+    "nationality": "Netherlands",
+    "age": "31",
+    "height_cm": "201",
+    "wheight_kg": "91",
+    "playerid": "137498"
+  },
+  {
+    "player_num": "17",
+    "player_name": "Amin Esmaeilnezhad",
+    "position": "Opposite spiker",
+    "nationality": "Iran",
+    "age": "27",
+    "height_cm": "203",
+    "wheight_kg": "96",
+    "playerid": "153539"
+  },
+  {
+    "player_num": "1",
+    "player_name": "Yuji Nishida",
+    "position": "Opposite spiker",
+    "nationality": "Japan",
+    "age": "24",
+    "height_cm": "187",
+    "wheight_kg": "89",
+    "playerid": "163519"
+  },
+  {
+    "player_num": "2",
+    "player_name": "Aaron Russell",
+    "position": "Outside Hitter",
+    "nationality": "United States",
+    "age": "30",
+    "height_cm": "205",
+    "wheight_kg": "98",
+    "playerid": "132624"
+  },
+  {
+    "player_num": "8",
+    "player_name": "Torey Defalco",
+    "position": "Outside Hitter",
+    "nationality": "United States",
+    "age": "26",
+    "height_cm": "198",
+    "wheight_kg": "95",
+    "playerid": "139254"
+  },
+  {
+    "player_num": "23",
+    "player_name": "Aleksandar Nikolov",
+    "position": "Outside Hitter",
+    "nationality": "Bulgaria",
+    "age": "20",
+    "height_cm": "207",
+    "wheight_kg": "100",
+    "playerid": "180586"
+  },
+  {
+    "player_num": "14",
+    "player_name": "Yuki Ishikawa",
+    "position": "Outside Hitter",
+    "nationality": "Japan",
+    "age": "28",
+    "height_cm": "191",
+    "wheight_kg": "84",
+    "playerid": "142568"
+  },
+  {
+    "player_num": "7",
+    "player_name": "Stephen Timothy Maar",
+    "position": "Outside Hitter",
+    "nationality": "Canada",
+    "age": "29",
+    "height_cm": "201",
+    "wheight_kg": "103",
+    "playerid": "140061"
+  },
+  {
+    "player_num": "5",
+    "player_name": "Kyle Ensing",
+    "position": "Opposite spiker",
+    "nationality": "United States",
+    "age": "26",
+    "height_cm": "201",
+    "wheight_kg": "107",
+    "playerid": "147417"
+  },
+  {
+    "player_num": "12",
+    "player_name": "Bruno Lima",
+    "position": "Opposite spiker",
+    "nationality": "Argentina",
+    "age": "27",
+    "height_cm": "198",
+    "wheight_kg": "87",
+    "playerid": "142415"
+  },
+  {
+    "player_num": "22",
+    "player_name": "Jingyin Zhang",
+    "position": "Outside Hitter",
+    "nationality": "China",
+    "age": "24",
+    "height_cm": "207",
+    "wheight_kg": "88",
+    "playerid": "168271"
+  },
+  {
+    "player_num": "3",
+    "player_name": "Lorenzo Pope",
+    "position": "Outside Hitter",
+    "nationality": "Australia",
+    "age": "22",
+    "height_cm": "205",
+    "wheight_kg": "80",
+    "playerid": "174192"
+  },
+  {
+    "player_num": "13",
+    "player_name": "Ezequiel Palacios",
+    "position": "Outside Hitter",
+    "nationality": "Argentina",
+    "age": "31",
+    "height_cm": "198",
+    "wheight_kg": "95",
+    "playerid": "125048"
+  },
+  {
+    "player_num": "15",
+    "player_name": "Daniele Lavia",
+    "position": "Outside Hitter",
+    "nationality": "Italy",
+    "age": "24",
+    "height_cm": "200",
+    "wheight_kg": "89",
+    "playerid": "153200"
+  },
+  {
+    "player_num": "2",
+    "player_name": "Milad Ebadipour Ghara H.",
+    "position": "Outside Hitter",
+    "nationality": "Iran",
+    "age": "30",
+    "height_cm": "196",
+    "wheight_kg": "78",
+    "playerid": "136751"
+  },
+  {
+    "player_num": "16",
+    "player_name": "Yuri Romanò",
+    "position": "Opposite spiker",
+    "nationality": "Italy",
+    "age": "26",
+    "height_cm": "201",
+    "wheight_kg": "89",
+    "playerid": "162520"
+  },
+  {
+    "player_num": "19",
+    "player_name": "Rok Možič",
+    "position": "Outside Hitter",
+    "nationality": "Slovenia",
+    "age": "22",
+    "height_cm": "200",
+    "wheight_kg": "78",
+    "playerid": "168747"
+  },
+  {
+    "player_num": "4",
+    "player_name": "Martin Atanasov",
+    "position": "Outside Hitter",
+    "nationality": "Bulgaria",
+    "age": "27",
+    "height_cm": "197",
+    "wheight_kg": "90",
+    "playerid": "156676"
+  },
+  {
+    "player_num": "9",
+    "player_name": "Earvin Ngapeth",
+    "position": "Outside Hitter",
+    "nationality": "France",
+    "age": "32",
+    "height_cm": "194",
+    "wheight_kg": "96",
+    "playerid": "119800"
+  },
+  {
+    "player_num": "4",
+    "player_name": "Jean Patry",
+    "position": "Opposite spiker",
+    "nationality": "France",
+    "age": "27",
+    "height_cm": "207",
+    "wheight_kg": "94",
+    "playerid": "142694"
+  },
+  {
+    "player_num": "6",
+    "player_name": "Bartosz Kurek",
+    "position": "Opposite spiker",
+    "nationality": "Poland",
+    "age": "35",
+    "height_cm": "205",
+    "wheight_kg": "87",
+    "playerid": "115806"
+  },
+  {
+    "player_num": "22",
+    "player_name": "Amirhossein Esfandiar",
+    "position": "Outside Hitter",
+    "nationality": "Iran",
+    "age": "25",
+    "height_cm": "209",
+    "wheight_kg": "110",
+    "playerid": "152752"
+  },
+  {
+    "player_num": "12",
+    "player_name": "Pavle Peric",
+    "position": "Outside Hitter",
+    "nationality": "Serbia",
+    "age": "25",
+    "height_cm": "207",
+    "wheight_kg": "96",
+    "playerid": "173251"
+  },
+  {
+    "player_num": "1",
+    "player_name": "Christian Fromm",
+    "position": "Outside Hitter",
+    "nationality": "Germany",
+    "age": "33",
+    "height_cm": "204",
+    "wheight_kg": "99",
+    "playerid": "119779"
+  },
+  {
+    "player_num": "8",
+    "player_name": "Agustin Loser",
+    "position": "Middle blocker",
+    "nationality": "Argentina",
+    "age": "26",
+    "height_cm": "198",
+    "wheight_kg": "88",
+    "playerid": "152692"
+  },
+  {
+    "player_num": "20",
+    "player_name": "Linus Weber",
+    "position": "Opposite spiker",
+    "nationality": "Germany",
+    "age": "24",
+    "height_cm": "203",
+    "wheight_kg": "105",
+    "playerid": "162082"
+  },
+  {
+    "player_num": "12",
+    "player_name": "Bennie Junior Tuinstra",
+    "position": "Outside Hitter",
+    "nationality": "Netherlands",
+    "age": "23",
+    "height_cm": "200",
+    "wheight_kg": "90",
+    "playerid": "170436"
+  },
+  {
+    "player_num": "5",
+    "player_name": "Alessandro Michieletto",
+    "position": "Outside Hitter",
+    "nationality": "Italy",
+    "age": "22",
+    "height_cm": "205",
+    "wheight_kg": "88",
+    "playerid": "171191"
+  },
+  {
+    "player_num": "10",
+    "player_name": "Miran Kujundžić",
+    "position": "Outside Hitter",
+    "nationality": "Serbia",
+    "age": "26",
+    "height_cm": "196",
+    "wheight_kg": "86",
+    "playerid": "162122"
+  },
+  {
+    "player_num": "21",
+    "player_name": "Alan Souza",
+    "position": "Opposite spiker",
+    "nationality": "Brazil",
+    "age": "29",
+    "height_cm": "202",
+    "wheight_kg": "98",
+    "playerid": "136947"
+  },
+  {
+    "player_num": "9",
+    "player_name": "Yoandy Leal Hidalgo",
+    "position": "Outside Hitter",
+    "nationality": "Brazil",
+    "age": "35",
+    "height_cm": "202",
+    "wheight_kg": "107",
+    "playerid": "118928"
+  },
+  {
+    "player_num": "20",
+    "player_name": "David Smith",
+    "position": "Middle blocker",
+    "nationality": "United States",
+    "age": "38",
+    "height_cm": "201",
+    "wheight_kg": "86",
+    "playerid": "116069"
+  },
+  {
+    "player_num": "23",
+    "player_name": "Flavio Resende Gualberto",
+    "position": "Middle blocker",
+    "nationality": "Brazil",
+    "age": "30",
+    "height_cm": "199",
+    "wheight_kg": "84",
+    "playerid": "136956"
+  },
+  {
+    "player_num": "4",
+    "player_name": "Jeffrey Jendryk II",
+    "position": "Middle blocker",
+    "nationality": "United States",
+    "age": "28",
+    "height_cm": "208",
+    "wheight_kg": "93",
+    "playerid": "147721"
+  },
+  {
+    "player_num": "12",
+    "player_name": "Stephen Boyer",
+    "position": "Opposite spiker",
+    "nationality": "France",
+    "age": "27",
+    "height_cm": "196",
+    "wheight_kg": "77",
+    "playerid": "142710"
+  },
+  {
+    "player_num": "16",
+    "player_name": "Kamil Semeniuk",
+    "position": "Outside Hitter",
+    "nationality": "Poland",
+    "age": "27",
+    "height_cm": "195",
+    "wheight_kg": "85",
+    "playerid": "153395"
+  },
+  {
+    "player_num": "10",
+    "player_name": "Ryan Joseph Sclater",
+    "position": "Opposite spiker",
+    "nationality": "Canada",
+    "age": "29",
+    "height_cm": "200",
+    "wheight_kg": "92",
+    "playerid": "140428"
+  },
+  {
+    "player_num": "1",
+    "player_name": "Barthélémy Chinenyeze",
+    "position": "Middle blocker",
+    "nationality": "France",
+    "age": "25",
+    "height_cm": "204",
+    "wheight_kg": "89",
+    "playerid": "152494"
+  },
+  {
+    "player_num": "1",
+    "player_name": "Tonček Štern",
+    "position": "Opposite spiker",
+    "nationality": "Slovenia",
+    "age": "28",
+    "height_cm": "200",
+    "wheight_kg": "95",
+    "playerid": "151390"
+  },
+  {
+    "player_num": "14",
+    "player_name": "Aleksandar Atanasijevic",
+    "position": "Opposite spiker",
+    "nationality": "Serbia",
+    "age": "32",
+    "height_cm": "200",
+    "wheight_kg": "92",
+    "playerid": "124915"
+  },
+  {
+    "player_num": "21",
+    "player_name": "Tomasz Fornal",
+    "position": "Outside Hitter",
+    "nationality": "Poland",
+    "age": "26",
+    "height_cm": "198",
+    "wheight_kg": "92",
+    "playerid": "152866"
+  },
+  {
+    "player_num": "25",
+    "player_name": "Lukas Maase",
+    "position": "Middle blocker",
+    "nationality": "Germany",
+    "age": "25",
+    "height_cm": "208",
+    "wheight_kg": "95",
+    "playerid": "152352"
+  },
+  {
+    "player_num": "5",
+    "player_name": "Moritz Reichert",
+    "position": "Outside Hitter",
+    "nationality": "Germany",
+    "age": "28",
+    "height_cm": "194",
+    "wheight_kg": "85",
+    "playerid": "139386"
+  },
+  {
+    "player_num": "14",
+    "player_name": "Gianluca Galassi",
+    "position": "Middle blocker",
+    "nationality": "Italy",
+    "age": "26",
+    "height_cm": "201",
+    "wheight_kg": "94",
+    "playerid": "152408"
+  },
+  {
+    "player_num": "15",
+    "player_name": "Radoslav Parapunov",
+    "position": "Opposite spiker",
+    "nationality": "Bulgaria",
+    "age": "26",
+    "height_cm": "205",
+    "wheight_kg": "87",
+    "playerid": "150277"
+  },
+  {
+    "player_num": "18",
+    "player_name": "Ricardo Lucarelli Souza",
+    "position": "Outside Hitter",
+    "nationality": "Brazil",
+    "age": "31",
+    "height_cm": "196",
+    "wheight_kg": "96",
+    "playerid": "136468"
+  },
+  {
+    "player_num": "19",
+    "player_name": "Guanhua Zhang",
+    "position": "Opposite spiker",
+    "nationality": "China",
+    "age": "26",
+    "height_cm": "202",
+    "wheight_kg": "85",
+    "playerid": "182707"
+  },
+  {
+    "player_num": "17",
+    "player_name": "Trevor Clevenot",
+    "position": "Outside Hitter",
+    "nationality": "France",
+    "age": "29",
+    "height_cm": "199",
+    "wheight_kg": "89",
+    "playerid": "132948"
+  },
+  {
+    "player_num": "8",
+    "player_name": "Fabian Plak",
+    "position": "Middle blocker",
+    "nationality": "Netherlands",
+    "age": "26",
+    "height_cm": "198",
+    "wheight_kg": "92",
+    "playerid": "156678"
+  },
+  {
+    "player_num": "19",
+    "player_name": "Yacine Louati",
+    "position": "Outside Hitter",
+    "nationality": "France",
+    "age": "31",
+    "height_cm": "198",
+    "wheight_kg": "92",
+    "playerid": "120735"
+  },
+  {
+    "player_num": "15",
+    "player_name": "Jakub Kochanowski",
+    "position": "Middle blocker",
+    "nationality": "Poland",
+    "age": "26",
+    "height_cm": "199",
+    "wheight_kg": "89",
+    "playerid": "152870"
+  },
+  {
+    "player_num": "20",
+    "player_name": "Mateusz Bieniek",
+    "position": "Middle blocker",
+    "nationality": "Poland",
+    "age": "29",
+    "height_cm": "210",
+    "wheight_kg": "98",
+    "playerid": "150734"
+  },
+  {
+    "player_num": "5",
+    "player_name": "Svetoslav Gotsev",
+    "position": "Middle blocker",
+    "nationality": "Bulgaria",
+    "age": "33",
+    "height_cm": "205",
+    "wheight_kg": "99",
+    "playerid": "132035"
+  },
+  {
+    "player_num": "28",
+    "player_name": "Darlan Ferreira Souza",
+    "position": "Opposite spiker",
+    "nationality": "Brazil",
+    "age": "21",
+    "height_cm": "192",
+    "wheight_kg": "103",
+    "playerid": "174902"
+  },
+  {
+    "player_num": "12",
+    "player_name": "Ran Takahashi",
+    "position": "Outside Hitter",
+    "nationality": "Japan",
+    "age": "22",
+    "height_cm": "188",
+    "wheight_kg": "72",
+    "playerid": "178762"
+  },
+  {
+    "player_num": "4",
+    "player_name": "Thijs Ter Horst",
+    "position": "Outside Hitter",
+    "nationality": "Netherlands",
+    "age": "32",
+    "height_cm": "204",
+    "wheight_kg": "97",
+    "playerid": "137345"
+  },
+  {
+    "player_num": "16",
+    "player_name": "Luciano Palonsky",
+    "position": "Outside Hitter",
+    "nationality": "Argentina",
+    "age": "24",
+    "height_cm": "198",
+    "wheight_kg": "72",
+    "playerid": "162546"
+  },
+  {
+    "player_num": "3",
+    "player_name": "Nikolay Kolev",
+    "position": "Middle blocker",
+    "nationality": "Bulgaria",
+    "age": "26",
+    "height_cm": "204",
+    "wheight_kg": "88",
+    "playerid": "173067"
+  },
+  {
+    "player_num": "21",
+    "player_name": "Tobias Krick",
+    "position": "Middle blocker",
+    "nationality": "Germany",
+    "age": "25",
+    "height_cm": "210",
+    "wheight_kg": "85",
+    "playerid": "152349"
+  },
+  {
+    "player_num": "6",
+    "player_name": "Akihiro Yamauchi",
+    "position": "Middle blocker",
+    "nationality": "Japan",
+    "age": "30",
+    "height_cm": "204",
+    "wheight_kg": "85",
+    "playerid": "146409"
+  },
+  {
+    "player_num": "1",
+    "player_name": "Beau Graham",
+    "position": "Middle blocker",
+    "nationality": "Australia",
+    "age": "29",
+    "height_cm": "203",
+    "wheight_kg": "99",
+    "playerid": "144457"
+  },
+  {
+    "player_num": "17",
+    "player_name": "Luciano Vicentin",
+    "position": "Outside Hitter",
+    "nationality": "Argentina",
+    "age": "23",
+    "height_cm": "197",
+    "wheight_kg": "84",
+    "playerid": "163555"
+  },
+  {
+    "player_num": "5",
+    "player_name": "Eric Loeppky",
+    "position": "Outside Hitter",
+    "nationality": "Canada",
+    "age": "25",
+    "height_cm": "197",
+    "wheight_kg": "89",
+    "playerid": "157327"
+  },
+  {
+    "player_num": "4",
+    "player_name": "Jan Kozamernik",
+    "position": "Middle blocker",
+    "nationality": "Slovenia",
+    "age": "28",
+    "height_cm": "204",
+    "wheight_kg": "106",
+    "playerid": "151391"
+  },
+  {
+    "player_num": "5",
+    "player_name": "Amir Hossein Toukhteh",
+    "position": "Middle blocker",
+    "nationality": "Iran",
+    "age": "22",
+    "height_cm": "203",
+    "wheight_kg": "79",
+    "playerid": "163179"
+  },
+  {
+    "player_num": "2",
+    "player_name": "Alen Pajenk",
+    "position": "Middle blocker",
+    "nationality": "Slovenia",
+    "age": "37",
+    "height_cm": "203",
+    "wheight_kg": "92",
+    "playerid": "114962"
+  },
+  {
+    "player_num": "13",
+    "player_name": "Thomas Heptinstall",
+    "position": "Opposite spiker",
+    "nationality": "Australia",
+    "age": "24",
+    "height_cm": "206",
+    "wheight_kg": "100",
+    "playerid": "168641"
+  },
+  {
+    "player_num": "9",
+    "player_name": "Yongzhen Li",
+    "position": "Middle blocker",
+    "nationality": "China",
+    "age": "25",
+    "height_cm": "198",
+    "wheight_kg": "85",
+    "playerid": "181103"
+  },
+  {
+    "player_num": "5",
+    "player_name": "Tatsunori Otsuka",
+    "position": "Outside Hitter",
+    "nationality": "Japan",
+    "age": "23",
+    "height_cm": "194",
+    "wheight_kg": "80",
+    "playerid": "163516"
+  },
+  {
+    "player_num": "14",
+    "player_name": "Aleksander Sliwka",
+    "position": "Outside Hitter",
+    "nationality": "Poland",
+    "age": "28",
+    "height_cm": "196",
+    "wheight_kg": "88",
+    "playerid": "142679"
+  },
+  {
+    "player_num": "15",
+    "player_name": "Shikun Peng",
+    "position": "Middle blocker",
+    "nationality": "China",
+    "age": "23",
+    "height_cm": "208",
+    "wheight_kg": "90",
+    "playerid": "168175"
+  },
+  {
+    "player_num": "12",
+    "player_name": "Isac Santos",
+    "position": "Middle blocker",
+    "nationality": "Brazil",
+    "age": "33",
+    "height_cm": "208",
+    "wheight_kg": "99",
+    "playerid": "119872"
+  },
+  {
+    "player_num": "6",
+    "player_name": "Yuantai Yu",
+    "position": "Outside Hitter",
+    "nationality": "China",
+    "age": "26",
+    "height_cm": "186",
+    "wheight_kg": "75",
+    "playerid": "152518"
+  },
+  {
+    "player_num": "15",
+    "player_name": "Nemanja Masulovic",
+    "position": "Middle blocker",
+    "nationality": "Serbia",
+    "age": "28",
+    "height_cm": "205",
+    "wheight_kg": "92",
+    "playerid": "150382"
+  },
+  {
+    "player_num": "7",
+    "player_name": "Karol Klos",
+    "position": "Middle blocker",
+    "nationality": "Poland",
+    "age": "34",
+    "height_cm": "201",
+    "wheight_kg": "87",
+    "playerid": "118618"
+  },
+  {
+    "player_num": "6",
+    "player_name": "Simone Giannelli",
+    "position": "Setter",
+    "nationality": "Italy",
+    "age": "27",
+    "height_cm": "200",
+    "wheight_kg": "80",
+    "playerid": "144005"
+  },
+  {
+    "player_num": "21",
+    "player_name": "Jackson Howe",
+    "position": "Middle blocker",
+    "nationality": "Canada",
+    "age": "25",
+    "height_cm": "198",
+    "wheight_kg": "91",
+    "playerid": "169578"
+  },
+  {
+    "player_num": "7",
+    "player_name": "James Weir",
+    "position": "Middle blocker",
+    "nationality": "Australia",
+    "age": "28",
+    "height_cm": "204",
+    "wheight_kg": "95",
+    "playerid": "162077"
+  },
+  {
+    "player_num": "22",
+    "player_name": "Tobias Brand",
+    "position": "Outside Hitter",
+    "nationality": "Germany",
+    "age": "25",
+    "height_cm": "193",
+    "wheight_kg": "86",
+    "playerid": "163592"
+  },
+  {
+    "player_num": "12",
+    "player_name": "Mattia Bottolo",
+    "position": "Outside Hitter",
+    "nationality": "Italy",
+    "age": "24",
+    "height_cm": "196",
+    "wheight_kg": "85",
+    "playerid": "163447"
+  },
+  {
+    "player_num": "1",
+    "player_name": "Mahdi Jelveh Ghaziani",
+    "position": "Middle blocker",
+    "nationality": "Iran",
+    "age": "22",
+    "height_cm": "208",
+    "wheight_kg": "85",
+    "playerid": "163173"
+  },
+  {
+    "player_num": "2",
+    "player_name": "Taishi Onodera",
+    "position": "Middle blocker",
+    "nationality": "Japan",
+    "age": "27",
+    "height_cm": "200",
+    "wheight_kg": "94",
+    "playerid": "142565"
+  },
+  {
+    "player_num": "17",
+    "player_name": "Tine Urnaut",
+    "position": "Outside Hitter",
+    "nationality": "Slovenia",
+    "age": "35",
+    "height_cm": "200",
+    "wheight_kg": "88",
+    "playerid": "114957"
+  },
+  {
+    "player_num": "14",
+    "player_name": "Nicolas Le Goff",
+    "position": "Middle blocker",
+    "nationality": "France",
+    "age": "31",
+    "height_cm": "206",
+    "wheight_kg": "114",
+    "playerid": "125073"
+  },
+  {
+    "player_num": "16",
+    "player_name": "Lucas Saatkamp",
+    "position": "Middle blocker",
+    "nationality": "Brazil",
+    "age": "37",
+    "height_cm": "209",
+    "wheight_kg": "101",
+    "playerid": "116081"
+  },
+  {
+    "player_num": "23",
+    "player_name": "Karol Butryn",
+    "position": "Opposite spiker",
+    "nationality": "Poland",
+    "age": "30",
+    "height_cm": "194",
+    "wheight_kg": "99",
+    "playerid": "181100"
+  },
+  {
+    "player_num": "14",
+    "player_name": "Žiga Štern",
+    "position": "Outside Hitter",
+    "nationality": "Slovenia",
+    "age": "30",
+    "height_cm": "193",
+    "wheight_kg": "88",
+    "playerid": "155920"
+  },
+  {
+    "player_num": "17",
+    "player_name": "Simone Anzani",
+    "position": "Middle blocker",
+    "nationality": "Italy",
+    "age": "31",
+    "height_cm": "204",
+    "wheight_kg": "100",
+    "playerid": "124865"
+  },
+  {
+    "player_num": "49",
+    "player_name": "Morteza Sharifi",
+    "position": "Outside Hitter",
+    "nationality": "Iran",
+    "age": "24",
+    "height_cm": "193",
+    "wheight_kg": "83",
+    "playerid": "152742"
+  },
+  {
+    "player_num": "18",
+    "player_name": "Florian Krage",
+    "position": "Middle blocker",
+    "nationality": "Germany",
+    "age": "27",
+    "height_cm": "203",
+    "wheight_kg": "100",
+    "playerid": "162790"
+  },
+  {
+    "player_num": "33",
+    "player_name": "Dusan Petkovic",
+    "position": "Opposite spiker",
+    "nationality": "Serbia",
+    "age": "32",
+    "height_cm": "202",
+    "wheight_kg": "86",
+    "playerid": "124912"
+  },
+  {
+    "player_num": "11",
+    "player_name": "Rodrigo Leao",
+    "position": "Outside Hitter",
+    "nationality": "Brazil",
+    "age": "27",
+    "height_cm": "197",
+    "wheight_kg": "85",
+    "playerid": "142721"
+  },
+  {
+    "player_num": "20",
+    "player_name": "Srecko Lisinac",
+    "position": "Middle blocker",
+    "nationality": "Serbia",
+    "age": "31",
+    "height_cm": "205",
+    "wheight_kg": "90",
+    "playerid": "136362"
+  },
+  {
+    "player_num": "14",
+    "player_name": "Asparuh Asparuhov",
+    "position": "Outside Hitter",
+    "nationality": "Bulgaria",
+    "age": "23",
+    "height_cm": "201",
+    "wheight_kg": "98",
+    "playerid": "168269"
+  },
+  {
+    "player_num": "7",
+    "player_name": "Gijs Jorna",
+    "position": "Outside Hitter",
+    "nationality": "Netherlands",
+    "age": "34",
+    "height_cm": "196",
+    "wheight_kg": "85",
+    "playerid": "131980"
+  },
+  {
+    "player_num": "25",
+    "player_name": "Quentin Jouffroy",
+    "position": "Middle blocker",
+    "nationality": "France",
+    "age": "30",
+    "height_cm": "202",
+    "wheight_kg": "100",
+    "playerid": "136856"
+  },
+  {
+    "player_num": "32",
+    "player_name": "Nikola Meljanac",
+    "position": "Opposite spiker",
+    "nationality": "Serbia",
+    "age": "25",
+    "height_cm": "201",
+    "wheight_kg": "110",
+    "playerid": "189272"
+  },
+  {
+    "player_num": "18",
+    "player_name": "Klemen Čebulj",
+    "position": "Outside Hitter",
+    "nationality": "Slovenia",
+    "age": "31",
+    "height_cm": "202",
+    "wheight_kg": "96",
+    "playerid": "136918"
+  },
+  {
+    "player_num": "16",
+    "player_name": "Kento Miyaura",
+    "position": "Opposite spiker",
+    "nationality": "Japan",
+    "age": "24",
+    "height_cm": "190",
+    "wheight_kg": "87",
+    "playerid": "163038"
+  },
+  {
+    "player_num": "22",
+    "player_name": "Twan Wiltenburg",
+    "position": "Middle blocker",
+    "nationality": "Netherlands",
+    "age": "27",
+    "height_cm": "205",
+    "wheight_kg": "98",
+    "playerid": "150703"
+  },
+  {
+    "player_num": "18",
+    "player_name": "Bartosz Kwolek",
+    "position": "Outside Hitter",
+    "nationality": "Poland",
+    "age": "26",
+    "height_cm": "192",
+    "wheight_kg": "93",
+    "playerid": "152873"
+  },
+  {
+    "player_num": "8",
+    "player_name": "Trent O'Dea",
+    "position": "Middle blocker",
+    "nationality": "Australia",
+    "age": "29",
+    "height_cm": "201",
+    "wheight_kg": "98",
+    "playerid": "144464"
+  },
+  {
+    "player_num": "10",
+    "player_name": "Kentaro Takahashi",
+    "position": "Middle blocker",
+    "nationality": "Japan",
+    "age": "28",
+    "height_cm": "202",
+    "wheight_kg": "90",
+    "playerid": "142561"
+  },
+  {
+    "player_num": "6",
+    "player_name": "Adriano Fernandes P.X.Cavalcante",
+    "position": "Outside Hitter",
+    "nationality": "Brazil",
+    "age": "21",
+    "height_cm": "201",
+    "wheight_kg": "84",
+    "playerid": "174908"
+  },
+  {
+    "player_num": "4",
+    "player_name": "Joaquin Gallego",
+    "position": "Middle blocker",
+    "nationality": "Argentina",
+    "age": "27",
+    "height_cm": "204",
+    "wheight_kg": "102",
+    "playerid": "142411"
+  },
+  {
+    "player_num": "11",
+    "player_name": "Antoine Brizard",
+    "position": "Setter",
+    "nationality": "France",
+    "age": "29",
+    "height_cm": "196",
+    "wheight_kg": "96",
+    "playerid": "136851"
+  },
+  {
+    "player_num": "1",
+    "player_name": "Denis Karyagin",
+    "position": "Outside Hitter",
+    "nationality": "Bulgaria",
+    "age": "21",
+    "height_cm": "206",
+    "wheight_kg": "102",
+    "playerid": "174445"
+  },
+  {
+    "player_num": "11",
+    "player_name": "Pearson Eshenko",
+    "position": "Middle blocker",
+    "nationality": "Canada",
+    "age": "26",
+    "height_cm": "204",
+    "wheight_kg": "97",
+    "playerid": "157324"
+  },
+  {
+    "player_num": "19",
+    "player_name": "Brodie Hofer",
+    "position": "Outside Hitter",
+    "nationality": "Canada",
+    "age": "23",
+    "height_cm": "200",
+    "wheight_kg": "105",
+    "playerid": "168914"
+  },
+  {
+    "player_num": "3",
+    "player_name": "Francesco Recine",
+    "position": "Outside Hitter",
+    "nationality": "Italy",
+    "age": "24",
+    "height_cm": "186",
+    "wheight_kg": "75",
+    "playerid": "163033"
+  },
+  {
+    "player_num": "5",
+    "player_name": "Lukasz Kaczmarek",
+    "position": "Opposite spiker",
+    "nationality": "Poland",
+    "age": "29",
+    "height_cm": "204",
+    "wheight_kg": "99",
+    "playerid": "162105"
+  },
+  {
+    "player_num": "7",
+    "player_name": "Kenta Takanashi",
+    "position": "Outside Hitter",
+    "nationality": "Japan",
+    "age": "26",
+    "height_cm": "190",
+    "wheight_kg": "83",
+    "playerid": "153365"
+  },
+  {
+    "player_num": "4",
+    "player_name": "Nicholas Hoag",
+    "position": "Outside Hitter",
+    "nationality": "Canada",
+    "age": "31",
+    "height_cm": "200",
+    "wheight_kg": "91",
+    "playerid": "136291"
+  },
+  {
+    "player_num": "3",
+    "player_name": "Maarten Van Garderen",
+    "position": "Outside Hitter",
+    "nationality": "Netherlands",
+    "age": "34",
+    "height_cm": "200",
+    "wheight_kg": "89",
+    "playerid": "139929"
+  },
+  {
+    "player_num": "22",
+    "player_name": "Nicolas Zerba",
+    "position": "Middle blocker",
+    "nationality": "Argentina",
+    "age": "24",
+    "height_cm": "203",
+    "wheight_kg": "94",
+    "playerid": "162543"
+  },
+  {
+    "player_num": "9",
+    "player_name": "Jake Hanes",
+    "position": "Opposite spiker",
+    "nationality": "United States",
+    "age": "25",
+    "height_cm": "210",
+    "wheight_kg": "99",
+    "playerid": "170104"
+  },
+  {
+    "player_num": "17",
+    "player_name": "Jingyi Wang",
+    "position": "Opposite spiker",
+    "nationality": "China",
+    "age": "25",
+    "height_cm": "202",
+    "wheight_kg": "87",
+    "playerid": "152513"
+  },
+  {
+    "player_num": "9",
+    "player_name": "Ivan Zaytsev",
+    "position": "Outside Hitter",
+    "nationality": "Italy",
+    "age": "35",
+    "height_cm": "204",
+    "wheight_kg": "100",
+    "playerid": "120511"
+  },
+  {
+    "player_num": "19",
+    "player_name": "Roberto Russo",
+    "position": "Middle blocker",
+    "nationality": "Italy",
+    "age": "26",
+    "height_cm": "207",
+    "wheight_kg": "91",
+    "playerid": "152405"
+  },
+  {
+    "player_num": "17",
+    "player_name": "Thomas Jaeschke",
+    "position": "Outside Hitter",
+    "nationality": "United States",
+    "age": "30",
+    "height_cm": "198",
+    "wheight_kg": "84",
+    "playerid": "143682"
+  },
+  {
+    "player_num": "10",
+    "player_name": "Nicolás Lazo",
+    "position": "Outside Hitter",
+    "nationality": "Argentina",
+    "age": "28",
+    "height_cm": "192",
+    "wheight_kg": "85",
+    "playerid": "136737"
+  },
+  {
+    "player_num": "27",
+    "player_name": "Max Senica",
+    "position": "Outside Hitter",
+    "nationality": "Australia",
+    "age": "24",
+    "height_cm": "191",
+    "wheight_kg": "87",
+    "playerid": "162870"
+  },
+  {
+    "player_num": "11",
+    "player_name": "Manuel Armoa",
+    "position": "Outside Hitter",
+    "nationality": "Argentina",
+    "age": "21",
+    "height_cm": "195",
+    "wheight_kg": "88",
+    "playerid": "174853"
+  },
+  {
+    "player_num": "12",
+    "player_name": "Lucas Van Berkel",
+    "position": "Middle blocker",
+    "nationality": "Canada",
+    "age": "32",
+    "height_cm": "210",
+    "wheight_kg": "108",
+    "playerid": "136296"
+  },
+  {
+    "player_num": "2",
+    "player_name": "Arshdeep Dosanjh",
+    "position": "Setter",
+    "nationality": "Australia",
+    "age": "27",
+    "height_cm": "205",
+    "wheight_kg": "95",
+    "playerid": "144456"
+  },
+  {
+    "player_num": "5",
+    "player_name": "Malachi Murch",
+    "position": "Outside Hitter",
+    "nationality": "Australia",
+    "age": "29",
+    "height_cm": "197",
+    "wheight_kg": "75",
+    "playerid": "139052"
+  },
+  {
+    "player_num": "11",
+    "player_name": "Danijel Koncilja",
+    "position": "Middle blocker",
+    "nationality": "Slovenia",
+    "age": "33",
+    "height_cm": "201",
+    "wheight_kg": "94",
+    "playerid": "144483"
+  },
+  {
+    "player_num": "24",
+    "player_name": "Mathias Elser",
+    "position": "Outside Hitter",
+    "nationality": "Canada",
+    "age": "22",
+    "height_cm": "198",
+    "wheight_kg": "76",
+    "playerid": "168908"
+  },
+  {
+    "player_num": "1",
+    "player_name": "Giulio Pinali",
+    "position": "Opposite spiker",
+    "nationality": "Italy",
+    "age": "26",
+    "height_cm": "199",
+    "wheight_kg": "91",
+    "playerid": "162518"
+  },
+  {
+    "player_num": "29",
+    "player_name": "Aleksandar Nedeljkovic",
+    "position": "Middle blocker",
+    "nationality": "Serbia",
+    "age": "26",
+    "height_cm": "205",
+    "wheight_kg": "96",
+    "playerid": "164985"
+  },
+  {
+    "player_num": "9",
+    "player_name": "Max Staples",
+    "position": "Outside Hitter",
+    "nationality": "Australia",
+    "age": "29",
+    "height_cm": "194",
+    "wheight_kg": "83",
+    "playerid": "135532"
+  },
+  {
+    "player_num": "18",
+    "player_name": "Marko Podrascanin",
+    "position": "Middle blocker",
+    "nationality": "Serbia",
+    "age": "36",
+    "height_cm": "204",
+    "wheight_kg": "100",
+    "playerid": "116525"
+  },
+  {
+    "player_num": "2",
+    "player_name": "Stefan Chavdarov",
+    "position": "Middle blocker",
+    "nationality": "Bulgaria",
+    "age": "28",
+    "height_cm": "202",
+    "wheight_kg": "101",
+    "playerid": "180588"
+  },
+  {
+    "player_num": "14",
+    "player_name": "Hamish Hazelden",
+    "position": "Opposite spiker",
+    "nationality": "Australia",
+    "age": "27",
+    "height_cm": "204",
+    "wheight_kg": "105",
+    "playerid": "162264"
+  },
+  {
+    "player_num": "18",
+    "player_name": "Martin Ramos",
+    "position": "Middle blocker",
+    "nationality": "Argentina",
+    "age": "32",
+    "height_cm": "197",
+    "wheight_kg": "94",
+    "playerid": "125047"
+  },
+  {
+    "player_num": "18",
+    "player_name": "Garrett Muagututia",
+    "position": "Outside Hitter",
+    "nationality": "United States",
+    "age": "35",
+    "height_cm": "205",
+    "wheight_kg": "92",
+    "playerid": "133463"
+  },
+  {
+    "player_num": "5",
+    "player_name": "Milan Katic",
+    "position": "Outside Hitter",
+    "nationality": "Serbia",
+    "age": "30",
+    "height_cm": "202",
+    "wheight_kg": "99",
+    "playerid": "132458"
+  },
+  {
+    "player_num": "72",
+    "player_name": "Mateusz Poreba",
+    "position": "Middle blocker",
+    "nationality": "Poland",
+    "age": "24",
+    "height_cm": "203",
+    "wheight_kg": "104",
+    "playerid": "164124"
+  },
+  {
+    "player_num": "6",
+    "player_name": "Mitja Gasparini",
+    "position": "Opposite spiker",
+    "nationality": "Slovenia",
+    "age": "39",
+    "height_cm": "202",
+    "wheight_kg": "93",
+    "playerid": "114952"
+  },
+  {
+    "player_num": "11",
+    "player_name": "Aleks Grozdanov",
+    "position": "Middle blocker",
+    "nationality": "Bulgaria",
+    "age": "25",
+    "height_cm": "208",
+    "wheight_kg": "90",
+    "playerid": "152619"
+  },
+  {
+    "player_num": "26",
+    "player_name": "Go Murayama",
+    "position": "Middle blocker",
+    "nationality": "Japan",
+    "age": "25",
+    "height_cm": "192",
+    "wheight_kg": "82",
+    "playerid": "189037"
+  },
+  {
+    "player_num": "11",
+    "player_name": "Micah Christenson",
+    "position": "Setter",
+    "nationality": "United States",
+    "age": "30",
+    "height_cm": "198",
+    "wheight_kg": "88",
+    "playerid": "124879"
+  },
+  {
+    "player_num": "10",
+    "player_name": "Bartosz Bednorz",
+    "position": "Outside Hitter",
+    "nationality": "Poland",
+    "age": "29",
+    "height_cm": "201",
+    "wheight_kg": "84",
+    "playerid": "150742"
+  },
+  {
+    "player_num": "2",
+    "player_name": "Maciej Muzaj",
+    "position": "Opposite spiker",
+    "nationality": "Poland",
+    "age": "29",
+    "height_cm": "208",
+    "wheight_kg": "86",
+    "playerid": "156531"
+  },
+  {
+    "player_num": "6",
+    "player_name": "Mitchell Stahl",
+    "position": "Middle blocker",
+    "nationality": "United States",
+    "age": "29",
+    "height_cm": "203",
+    "wheight_kg": "84",
+    "playerid": "140185"
+  },
+  {
+    "player_num": "31",
+    "player_name": "Matthew Aubrey",
+    "position": "Opposite spiker",
+    "nationality": "Australia",
+    "age": "26",
+    "height_cm": "209",
+    "wheight_kg": "103",
+    "playerid": "162265"
+  },
+  {
+    "player_num": "15",
+    "player_name": "Kyle Russell",
+    "position": "Opposite spiker",
+    "nationality": "United States",
+    "age": "30",
+    "height_cm": "206",
+    "wheight_kg": "100",
+    "playerid": "136077"
+  },
+  {
+    "player_num": "7",
+    "player_name": "Yaochen Yu",
+    "position": "Setter",
+    "nationality": "China",
+    "age": "28",
+    "height_cm": "195",
+    "wheight_kg": "89",
+    "playerid": "142593"
+  },
+  {
+    "player_num": "11",
+    "player_name": "Zhengyang Jiang",
+    "position": "Middle blocker",
+    "nationality": "China",
+    "age": "25",
+    "height_cm": "202",
+    "wheight_kg": "92",
+    "playerid": "152526"
+  },
+  {
+    "player_num": "2",
+    "player_name": "Wessel Keemink",
+    "position": "Setter",
+    "nationality": "Netherlands",
+    "age": "30",
+    "height_cm": "197",
+    "wheight_kg": "81",
+    "playerid": "141546"
+  },
+  {
+    "player_num": "10",
+    "player_name": "Stijn van Tilburg",
+    "position": "Opposite spiker",
+    "nationality": "Netherlands",
+    "age": "27",
+    "height_cm": "203",
+    "wheight_kg": "100",
+    "playerid": "169923"
+  },
+  {
+    "player_num": "29",
+    "player_name": "Ethan Garrett",
+    "position": "Outside Hitter",
+    "nationality": "Australia",
+    "age": "23",
+    "height_cm": "196",
+    "wheight_kg": "86",
+    "playerid": "169335"
+  },
+  {
+    "player_num": "23",
+    "player_name": "Bozidar Vucicevic",
+    "position": "Opposite spiker",
+    "nationality": "Serbia",
+    "age": "25",
+    "height_cm": "205",
+    "wheight_kg": "96",
+    "playerid": "168276"
+  },
+  {
+    "player_num": "9",
+    "player_name": "Georgi Seganov",
+    "position": "Setter",
+    "nationality": "Bulgaria",
+    "age": "30",
+    "height_cm": "197",
+    "wheight_kg": "83",
+    "playerid": "137012"
+  },
+  {
+    "player_num": "18",
+    "player_name": "Mohammad Taher Vadi",
+    "position": "Setter",
+    "nationality": "Iran",
+    "age": "34",
+    "height_cm": "194",
+    "wheight_kg": "72",
+    "playerid": "119750"
+  },
+  {
+    "player_num": "16",
+    "player_name": "Joshua Tuaniga",
+    "position": "Setter",
+    "nationality": "United States",
+    "age": "26",
+    "height_cm": "191",
+    "wheight_kg": "102",
+    "playerid": "147543"
+  },
+  {
+    "player_num": "17",
+    "player_name": "Michael Parkinson",
+    "position": "Middle blocker",
+    "nationality": "Netherlands",
+    "age": "32",
+    "height_cm": "203",
+    "wheight_kg": "102",
+    "playerid": "137337"
+  },
+  {
+    "player_num": "22",
+    "player_name": "Pierre Derouillon",
+    "position": "Outside Hitter",
+    "nationality": "France",
+    "age": "24",
+    "height_cm": "197",
+    "wheight_kg": "90",
+    "playerid": "152531"
+  },
+  {
+    "player_num": "27",
+    "player_name": "Tyler Mitchem",
+    "position": "Middle blocker",
+    "nationality": "United States",
+    "age": "25",
+    "height_cm": "208",
+    "wheight_kg": "102",
+    "playerid": "162551"
+  },
+  {
+    "player_num": "1",
+    "player_name": "Bruno Mossa Rezende",
+    "position": "Setter",
+    "nationality": "Brazil",
+    "age": "37",
+    "height_cm": "190",
+    "wheight_kg": "76",
+    "playerid": "116099"
+  },
+  {
+    "player_num": "25",
+    "player_name": "Samuel Cooper",
+    "position": "Outside Hitter",
+    "nationality": "Canada",
+    "age": "22",
+    "height_cm": "200",
+    "wheight_kg": "93",
+    "playerid": "182679"
+  },
+  {
+    "player_num": "16",
+    "player_name": "Gregor Ropret",
+    "position": "Setter",
+    "nationality": "Slovenia",
+    "age": "34",
+    "height_cm": "192",
+    "wheight_kg": "89",
+    "playerid": "119018"
+  },
+  {
+    "player_num": "8",
+    "player_name": "Brett James Walsh",
+    "position": "Setter",
+    "nationality": "Canada",
+    "age": "29",
+    "height_cm": "196",
+    "wheight_kg": "84",
+    "playerid": "143745"
+  },
+  {
+    "player_num": "15",
+    "player_name": "Médéric Henry",
+    "position": "Middle blocker",
+    "nationality": "France",
+    "age": "28",
+    "height_cm": "212",
+    "wheight_kg": "106",
+    "playerid": "136855"
+  },
+  {
+    "player_num": "30",
+    "player_name": "Leandro Ausibio Mosca",
+    "position": "Middle blocker",
+    "nationality": "Italy",
+    "age": "23",
+    "height_cm": "208",
+    "wheight_kg": "90",
+    "playerid": "174074"
+  },
+  {
+    "player_num": "40",
+    "player_name": "Max Schulz",
+    "position": "Outside Hitter",
+    "nationality": "Germany",
+    "age": "21",
+    "height_cm": "200",
+    "wheight_kg": "99",
+    "playerid": "174640"
+  },
+  {
+    "player_num": "13",
+    "player_name": "Rafal Szymura",
+    "position": "Outside Hitter",
+    "nationality": "Poland",
+    "age": "28",
+    "height_cm": "196",
+    "wheight_kg": "93",
+    "playerid": "142678"
+  },
+  {
+    "player_num": "25",
+    "player_name": "Marco Vitelli",
+    "position": "Middle blocker",
+    "nationality": "Italy",
+    "age": "27",
+    "height_cm": "203",
+    "wheight_kg": "94",
+    "playerid": "150435"
+  },
+  {
+    "player_num": "5",
+    "player_name": "Binglong Zhang",
+    "position": "Outside Hitter",
+    "nationality": "China",
+    "age": "29",
+    "height_cm": "197",
+    "wheight_kg": "99",
+    "playerid": "153610"
+  },
+  {
+    "player_num": "28",
+    "player_name": "Lazar Marinovic",
+    "position": "Outside Hitter",
+    "nationality": "Serbia",
+    "age": "25",
+    "height_cm": "197",
+    "wheight_kg": "88",
+    "playerid": "189274"
+  },
+  {
+    "player_num": "17",
+    "player_name": "Ryley Brendan Barnes",
+    "position": "Outside Hitter",
+    "nationality": "Canada",
+    "age": "30",
+    "height_cm": "200",
+    "wheight_kg": "92",
+    "playerid": "140057"
+  },
+  {
+    "player_num": "1",
+    "player_name": "Bartlomiej Lipinski",
+    "position": "Outside Hitter",
+    "nationality": "Poland",
+    "age": "27",
+    "height_cm": "201",
+    "wheight_kg": "95",
+    "playerid": "153394"
+  },
+  {
+    "player_num": "13",
+    "player_name": "Lorenzo Cortesia",
+    "position": "Middle blocker",
+    "nationality": "Italy",
+    "age": "24",
+    "height_cm": "198",
+    "wheight_kg": "75",
+    "playerid": "163028"
+  },
+  {
+    "player_num": "11",
+    "player_name": "Saber Kazemi",
+    "position": "Opposite spiker",
+    "nationality": "Iran",
+    "age": "25",
+    "height_cm": "205",
+    "wheight_kg": "87",
+    "playerid": "164188"
+  },
+  {
+    "player_num": "8",
+    "player_name": "Crtomir Bošnjak",
+    "position": "Outside Hitter",
+    "nationality": "Slovenia",
+    "age": "23",
+    "height_cm": "196",
+    "wheight_kg": "88",
+    "playerid": "154046"
+  },
+  {
+    "player_num": "9",
+    "player_name": "Nikola Jovovic",
+    "position": "Setter",
+    "nationality": "Serbia",
+    "age": "31",
+    "height_cm": "197",
+    "wheight_kg": "75",
+    "playerid": "124911"
+  },
+  {
+    "player_num": "5",
+    "player_name": "Cornelis Luuc van Der Ent",
+    "position": "Middle blocker",
+    "nationality": "Netherlands",
+    "age": "25",
+    "height_cm": "208",
+    "wheight_kg": "105",
+    "playerid": "169921"
+  },
+  {
+    "player_num": "18",
+    "player_name": "Svetoslav Ivanov",
+    "position": "Outside Hitter",
+    "nationality": "Bulgaria",
+    "age": "23",
+    "height_cm": "197",
+    "wheight_kg": "88",
+    "playerid": "164812"
+  },
+  {
+    "player_num": "7",
+    "player_name": "Petar Krsmanovic",
+    "position": "Middle blocker",
+    "nationality": "Serbia",
+    "age": "33",
+    "height_cm": "205",
+    "wheight_kg": "98",
+    "playerid": "146579"
+  },
+  {
+    "player_num": "15",
+    "player_name": "Luciano De Cecco",
+    "position": "Setter",
+    "nationality": "Argentina",
+    "age": "35",
+    "height_cm": "191",
+    "wheight_kg": "98",
+    "playerid": "117457"
+  },
+  {
+    "player_num": "17",
+    "player_name": "Jan Zimmermann",
+    "position": "Setter",
+    "nationality": "Germany",
+    "age": "30",
+    "height_cm": "190",
+    "wheight_kg": "82",
+    "playerid": "136442"
+  },
+  {
+    "player_num": "38",
+    "player_name": "Tim Peter",
+    "position": "Outside Hitter",
+    "nationality": "Germany",
+    "age": "26",
+    "height_cm": "197",
+    "wheight_kg": "98",
+    "playerid": "152713"
+  },
+  {
+    "player_num": "77",
+    "player_name": "Matias Giraudo",
+    "position": "Setter",
+    "nationality": "Argentina",
+    "age": "25",
+    "height_cm": "196",
+    "wheight_kg": "85",
+    "playerid": "142420"
+  },
+  {
+    "player_num": "23",
+    "player_name": "Cody Kessel",
+    "position": "Outside Hitter",
+    "nationality": "United States",
+    "age": "32",
+    "height_cm": "196",
+    "wheight_kg": "93",
+    "playerid": "153472"
+  },
+  {
+    "player_num": "8",
+    "player_name": "Masahiro Sekita",
+    "position": "Setter",
+    "nationality": "Japan",
+    "age": "30",
+    "height_cm": "175",
+    "wheight_kg": "71",
+    "playerid": "133009"
+  },
+  {
+    "player_num": "1",
+    "player_name": "Matias Sanchez",
+    "position": "Setter",
+    "nationality": "Argentina",
+    "age": "27",
+    "height_cm": "175",
+    "wheight_kg": "66",
+    "playerid": "142412"
+  },
+  {
+    "player_num": "19",
+    "player_name": "Marcin Janusz",
+    "position": "Setter",
+    "nationality": "Poland",
+    "age": "29",
+    "height_cm": "196",
+    "wheight_kg": "85",
+    "playerid": "165942"
+  },
+  {
+    "player_num": "4",
+    "player_name": "Nemanja Petric",
+    "position": "Outside Hitter",
+    "nationality": "Serbia",
+    "age": "36",
+    "height_cm": "203",
+    "wheight_kg": "96",
+    "playerid": "120250"
+  },
+  {
+    "player_num": "2",
+    "player_name": "Johannes Tille",
+    "position": "Setter",
+    "nationality": "Germany",
+    "age": "26",
+    "height_cm": "186",
+    "wheight_kg": "73",
+    "playerid": "152469"
+  },
+  {
+    "player_num": "13",
+    "player_name": "Gabriel Kavalkievicz",
+    "position": "Outside Hitter",
+    "nationality": "Brazil",
+    "age": "27",
+    "height_cm": "191",
+    "wheight_kg": "80",
+    "playerid": "151789"
+  },
+  {
+    "player_num": "21",
+    "player_name": "Amir Reza Sarlak",
+    "position": "Middle blocker",
+    "nationality": "Iran",
+    "age": "22",
+    "height_cm": "201",
+    "wheight_kg": "86",
+    "playerid": "174560"
+  },
+  {
+    "player_num": "26",
+    "player_name": "Mehrab Malakisorkhi",
+    "position": "Middle blocker",
+    "nationality": "Iran",
+    "age": "25",
+    "height_cm": "206",
+    "wheight_kg": "93",
+    "playerid": "189175"
+  },
+  {
+    "player_num": "12",
+    "player_name": "Jan Klobucar",
+    "position": "Libero",
+    "nationality": "Slovenia",
+    "age": "31",
+    "height_cm": "196",
+    "wheight_kg": "92",
+    "playerid": "154546"
+  },
+  {
+    "player_num": "96",
+    "player_name": "Jan Firlej",
+    "position": "Setter",
+    "nationality": "Poland",
+    "age": "27",
+    "height_cm": "187",
+    "wheight_kg": "84",
+    "playerid": "153387"
+  },
+  {
+    "player_num": "3",
+    "player_name": "Raphaël Corre",
+    "position": "Setter",
+    "nationality": "France",
+    "age": "34",
+    "height_cm": "196",
+    "wheight_kg": "85",
+    "playerid": "119791"
+  },
+  {
+    "player_num": "9",
+    "player_name": "Dejan Vincic",
+    "position": "Setter",
+    "nationality": "Slovenia",
+    "age": "37",
+    "height_cm": "200",
+    "wheight_kg": "93",
+    "playerid": "114956"
+  },
+  {
+    "player_num": "3",
+    "player_name": "Reza Abedini",
+    "position": "Middle blocker",
+    "nationality": "Iran",
+    "age": "32",
+    "height_cm": "203",
+    "wheight_kg": "93",
+    "playerid": "150817"
+  },
+  {
+    "player_num": "15",
+    "player_name": "Matic Videčnik",
+    "position": "Middle blocker",
+    "nationality": "Slovenia",
+    "age": "30",
+    "height_cm": "203",
+    "wheight_kg": "98",
+    "playerid": "161754"
+  },
+  {
+    "player_num": "15",
+    "player_name": "Marc Major Wilson",
+    "position": "Libero",
+    "nationality": "Canada",
+    "age": "32",
+    "height_cm": "203",
+    "wheight_kg": "96",
+    "playerid": "153661"
+  },
+  {
+    "player_num": "21",
+    "player_name": "Nicholas Butler",
+    "position": "Setter",
+    "nationality": "Australia",
+    "age": "26",
+    "height_cm": "198",
+    "wheight_kg": "95",
+    "playerid": "158841"
+  },
+  {
+    "player_num": "23",
+    "player_name": "Bardia Saadat",
+    "position": "Opposite spiker",
+    "nationality": "Iran",
+    "age": "21",
+    "height_cm": "205",
+    "wheight_kg": "87",
+    "playerid": "168551"
+  },
+  {
+    "player_num": "3",
+    "player_name": "James Shaw",
+    "position": "Setter",
+    "nationality": "United States",
+    "age": "29",
+    "height_cm": "203",
+    "wheight_kg": "98",
+    "playerid": "136078"
+  },
+  {
+    "player_num": "7",
+    "player_name": "Dobromir Dimitrov",
+    "position": "Setter",
+    "nationality": "Bulgaria",
+    "age": "32",
+    "height_cm": "198",
+    "wheight_kg": "84",
+    "playerid": "136489"
+  },
+  {
+    "player_num": "9",
+    "player_name": "Jay Blankenau",
+    "position": "Setter",
+    "nationality": "Canada",
+    "age": "34",
+    "height_cm": "194",
+    "wheight_kg": "94",
+    "playerid": "124553"
+  },
+  {
+    "player_num": "11",
+    "player_name": "Shoma Tomita",
+    "position": "Outside Hitter",
+    "nationality": "Japan",
+    "age": "26",
+    "height_cm": "190",
+    "wheight_kg": "80",
+    "playerid": "178761"
+  },
+  {
+    "player_num": "21",
+    "player_name": "Motoki Eiro",
+    "position": "Setter",
+    "nationality": "Japan",
+    "age": "27",
+    "height_cm": "192",
+    "wheight_kg": "80",
+    "playerid": "142562"
+  },
+  {
+    "player_num": "23",
+    "player_name": "Sam Flowerday",
+    "position": "Outside Hitter",
+    "nationality": "Australia",
+    "age": "21",
+    "height_cm": "191",
+    "wheight_kg": "91",
+    "playerid": "178207"
+  },
+  {
+    "player_num": "22",
+    "player_name": "Karol Urbanowicz",
+    "position": "Middle blocker",
+    "nationality": "Poland",
+    "age": "22",
+    "height_cm": "201",
+    "wheight_kg": "98",
+    "playerid": "183851"
+  },
+  {
+    "player_num": "9",
+    "player_name": "Masaki Oya",
+    "position": "Setter",
+    "nationality": "Japan",
+    "age": "28",
+    "height_cm": "178",
+    "wheight_kg": "77",
+    "playerid": "142570"
+  },
+  {
+    "player_num": "7",
+    "player_name": "Esmaeil Mosaferdashliboroun",
+    "position": "Outside Hitter",
+    "nationality": "Iran",
+    "age": "26",
+    "height_cm": "192",
+    "wheight_kg": "71",
+    "playerid": "152741"
+  },
+  {
+    "player_num": "1",
+    "player_name": "Uros Nikolic",
+    "position": "Outside Hitter",
+    "nationality": "Serbia",
+    "age": "25",
+    "height_cm": "210",
+    "wheight_kg": "98",
+    "playerid": "181313"
+  },
+  {
+    "player_num": "4",
+    "player_name": "Franco Willian Cargnin Paese",
+    "position": "Opposite spiker",
+    "nationality": "Brazil",
+    "age": "33",
+    "height_cm": "202",
+    "wheight_kg": "93",
+    "playerid": "124456"
+  },
+  {
+    "player_num": "20",
+    "player_name": "Derek Epp",
+    "position": "Setter",
+    "nationality": "Canada",
+    "age": "25",
+    "height_cm": "201",
+    "wheight_kg": "98",
+    "playerid": "157332"
+  },
+  {
+    "player_num": "10",
+    "player_name": "Meng Liu",
+    "position": "Setter",
+    "nationality": "China",
+    "age": "28",
+    "height_cm": "195",
+    "wheight_kg": "80",
+    "playerid": "158965"
+  },
+  {
+    "player_num": "16",
+    "player_name": "Hebin Wang",
+    "position": "Setter",
+    "nationality": "China",
+    "age": "24",
+    "height_cm": "188",
+    "wheight_kg": "76",
+    "playerid": "174297"
+  },
+  {
+    "player_num": "13",
+    "player_name": "Ali Ramezani",
+    "position": "Setter",
+    "nationality": "Iran",
+    "age": "25",
+    "height_cm": "200",
+    "wheight_kg": "103",
+    "playerid": "152753"
+  },
+  {
+    "player_num": "14",
+    "player_name": "Fernando Gil Kreling",
+    "position": "Setter",
+    "nationality": "Brazil",
+    "age": "28",
+    "height_cm": "186",
+    "wheight_kg": "85",
+    "playerid": "142744"
+  },
+  {
+    "player_num": "19",
+    "player_name": "Leandro Santos",
+    "position": "Middle blocker",
+    "nationality": "Brazil",
+    "age": "31",
+    "height_cm": "197",
+    "wheight_kg": "80",
+    "playerid": "136954"
+  },
+  {
+    "player_num": "4",
+    "player_name": "Lukasz Kozub",
+    "position": "Setter",
+    "nationality": "Poland",
+    "age": "26",
+    "height_cm": "186",
+    "wheight_kg": "88",
+    "playerid": "152872"
+  },
+  {
+    "player_num": "7",
+    "player_name": "Kevin Tillie",
+    "position": "Outside Hitter",
+    "nationality": "France",
+    "age": "33",
+    "height_cm": "200",
+    "wheight_kg": "85",
+    "playerid": "124518"
+  },
+  {
+    "player_num": "10",
+    "player_name": "Sašo Štalekar",
+    "position": "Middle blocker",
+    "nationality": "Slovenia",
+    "age": "27",
+    "height_cm": "214",
+    "wheight_kg": "98",
+    "playerid": "151404"
+  },
+  {
+    "player_num": "19",
+    "player_name": "Erik Röhrs",
+    "position": "Outside Hitter",
+    "nationality": "Germany",
+    "age": "22",
+    "height_cm": "194",
+    "wheight_kg": "82",
+    "playerid": "174660"
+  },
+  {
+    "player_num": "39",
+    "player_name": "Andrija Vulikic",
+    "position": "Setter",
+    "nationality": "Serbia",
+    "age": "27",
+    "height_cm": "193",
+    "wheight_kg": "77",
+    "playerid": "166724"
+  },
+  {
+    "player_num": "18",
+    "player_name": "Dangyi Yuan",
+    "position": "Outside Hitter",
+    "nationality": "China",
+    "age": "27",
+    "height_cm": "200",
+    "wheight_kg": "91",
+    "playerid": "162272"
+  },
+  {
+    "player_num": "21",
+    "player_name": "Ruantong Miao",
+    "position": "Middle blocker",
+    "nationality": "China",
+    "age": "28",
+    "height_cm": "205",
+    "wheight_kg": "88",
+    "playerid": "153096"
+  },
+  {
+    "player_num": "21",
+    "player_name": "Vuk Todorovic",
+    "position": "Setter",
+    "nationality": "Serbia",
+    "age": "25",
+    "height_cm": "190",
+    "wheight_kg": "74",
+    "playerid": "173250"
+  },
+  {
+    "player_num": "32",
+    "player_name": "Iven Ferch",
+    "position": "Middle blocker",
+    "nationality": "Germany",
+    "age": "26",
+    "height_cm": "208",
+    "wheight_kg": "90",
+    "playerid": "152751"
+  },
+  {
+    "player_num": "15",
+    "player_name": "Gijs van Solkema",
+    "position": "Setter",
+    "nationality": "Netherlands",
+    "age": "25",
+    "height_cm": "193",
+    "wheight_kg": "91",
+    "playerid": "164837"
+  },
+  {
+    "player_num": "8",
+    "player_name": "Riccardo Sbertoli",
+    "position": "Setter",
+    "nationality": "Italy",
+    "age": "25",
+    "height_cm": "188",
+    "wheight_kg": "85",
+    "playerid": "152370"
+  },
+  {
+    "player_num": "6",
+    "player_name": "Benjamin Toniutti",
+    "position": "Setter",
+    "nationality": "France",
+    "age": "34",
+    "height_cm": "183",
+    "wheight_kg": "72",
+    "playerid": "119804"
+  },
+  {
+    "player_num": "29",
+    "player_name": "Leon Dervisaj",
+    "position": "Setter",
+    "nationality": "Germany",
+    "age": "27",
+    "height_cm": "194",
+    "wheight_kg": "85",
+    "playerid": "176931"
+  },
+  {
+    "player_num": "19",
+    "player_name": "Ehsan Daneshdoust",
+    "position": "Outside Hitter",
+    "nationality": "Iran",
+    "age": "24",
+    "height_cm": "192",
+    "wheight_kg": "76",
+    "playerid": "163174"
+  },
+  {
+    "player_num": "4",
+    "player_name": "Yiming Yang",
+    "position": "Libero",
+    "nationality": "China",
+    "age": "24",
+    "height_cm": "186",
+    "wheight_kg": "80",
+    "playerid": "174295"
+  },
+  {
+    "player_num": "8",
+    "player_name": "Tianyuan Yang",
+    "position": "Libero",
+    "nationality": "China",
+    "age": "29",
+    "height_cm": "180",
+    "wheight_kg": "80",
+    "playerid": "168272"
+  },
+  {
+    "player_num": "8",
+    "player_name": "Mohammadreza Hazratpourtalatappeh",
+    "position": "Libero",
+    "nationality": "Iran",
+    "age": "24",
+    "height_cm": "187",
+    "wheight_kg": "87",
+    "playerid": "163176"
+  },
+  {
+    "player_num": "9",
+    "player_name": "Mohammadreza Moazzen",
+    "position": "Libero",
+    "nationality": "Iran",
+    "age": "32",
+    "height_cm": "175",
+    "wheight_kg": "75",
+    "playerid": "153535"
+  },
+  {
+    "player_num": "3",
+    "player_name": "Uroš Planinšič",
+    "position": "Setter",
+    "nationality": "Slovenia",
+    "age": "25",
+    "height_cm": "186",
+    "wheight_kg": "84",
+    "playerid": "168715"
+  },
+  {
+    "player_num": "7",
+    "player_name": "Alan Košenina",
+    "position": "Libero",
+    "nationality": "Slovenia",
+    "age": "27",
+    "height_cm": "189",
+    "wheight_kg": "80",
+    "playerid": "153301"
+  },
+  {
+    "player_num": "13",
+    "player_name": "Jani Kovačič",
+    "position": "Libero",
+    "nationality": "Slovenia",
+    "age": "31",
+    "height_cm": "186",
+    "wheight_kg": "83",
+    "playerid": "144415"
+  },
+  {
+    "player_num": "7",
+    "player_name": "Jacob Pasteur",
+    "position": "Outside Hitter",
+    "nationality": "United States",
+    "age": "21",
+    "height_cm": "193",
+    "wheight_kg": "81",
+    "playerid": "183140"
+  },
+  {
+    "player_num": "10",
+    "player_name": "Kyle Dagostino",
+    "position": "Libero",
+    "nationality": "United States",
+    "age": "28",
+    "height_cm": "175",
+    "wheight_kg": "75",
+    "playerid": "142445"
+  },
+  {
+    "player_num": "13",
+    "player_name": "Patrick Gasman",
+    "position": "Middle blocker",
+    "nationality": "United States",
+    "age": "27",
+    "height_cm": "208",
+    "wheight_kg": "108",
+    "playerid": "147542"
+  },
+  {
+    "player_num": "21",
+    "player_name": "Mason Briggs",
+    "position": "Libero",
+    "nationality": "United States",
+    "age": "23",
+    "height_cm": "182",
+    "wheight_kg": "70",
+    "playerid": "168461"
+  },
+  {
+    "player_num": "17",
+    "player_name": "Samuil Valchinov",
+    "position": "Outside Hitter",
+    "nationality": "Bulgaria",
+    "age": "22",
+    "height_cm": "202",
+    "wheight_kg": "91",
+    "playerid": "174444"
+  },
+  {
+    "player_num": "24",
+    "player_name": "Martin Ivanov",
+    "position": "Libero",
+    "nationality": "Bulgaria",
+    "age": "31",
+    "height_cm": "190",
+    "wheight_kg": "78",
+    "playerid": "173009"
+  },
+  {
+    "player_num": "6",
+    "player_name": "Nikola Pekovic",
+    "position": "Libero",
+    "nationality": "Serbia",
+    "age": "33",
+    "height_cm": "176",
+    "wheight_kg": "77",
+    "playerid": "150383"
+  },
+  {
+    "player_num": "30",
+    "player_name": "Lazar Koprivica",
+    "position": "Libero",
+    "nationality": "Serbia",
+    "age": "32",
+    "height_cm": "200",
+    "wheight_kg": "92",
+    "playerid": "124920"
+  },
+  {
+    "player_num": "35",
+    "player_name": "Andrej Rudic",
+    "position": "Middle blocker",
+    "nationality": "Serbia",
+    "age": "24",
+    "height_cm": "201",
+    "wheight_kg": "95",
+    "playerid": "189276"
+  },
+  {
+    "player_num": "3",
+    "player_name": "Jesse Elser",
+    "position": "Outside Hitter",
+    "nationality": "Canada",
+    "age": "24",
+    "height_cm": "204",
+    "wheight_kg": "94",
+    "playerid": "162249"
+  },
+  {
+    "player_num": "18",
+    "player_name": "Justin Lui",
+    "position": "Libero",
+    "nationality": "Canada",
+    "age": "23",
+    "height_cm": "178",
+    "wheight_kg": "68",
+    "playerid": "168925"
+  },
+  {
+    "player_num": "10",
+    "player_name": "Julian Zenger",
+    "position": "Libero",
+    "nationality": "Germany",
+    "age": "26",
+    "height_cm": "190",
+    "wheight_kg": "80",
+    "playerid": "152470"
+  },
+  {
+    "player_num": "23",
+    "player_name": "Yannick Goralik",
+    "position": "Middle blocker",
+    "nationality": "Germany",
+    "age": "26",
+    "height_cm": "206",
+    "wheight_kg": "94",
+    "playerid": "183112"
+  },
+  {
+    "player_num": "13",
+    "player_name": "Tomohiro Ogawa",
+    "position": "Libero",
+    "nationality": "Japan",
+    "age": "27",
+    "height_cm": "176",
+    "wheight_kg": "67",
+    "playerid": "180990"
+  },
+  {
+    "player_num": "20",
+    "player_name": "Tomohiro Yamamoto",
+    "position": "Libero",
+    "nationality": "Japan",
+    "age": "29",
+    "height_cm": "171",
+    "wheight_kg": "69",
+    "playerid": "172893"
+  },
+  {
+    "player_num": "9",
+    "player_name": "Steven Ottevanger",
+    "position": "Libero",
+    "nationality": "Netherlands",
+    "age": "29",
+    "height_cm": "183",
+    "wheight_kg": "80",
+    "playerid": "176460"
+  },
+  {
+    "player_num": "18",
+    "player_name": "Robbert Andringa",
+    "position": "Libero",
+    "nationality": "Netherlands",
+    "age": "33",
+    "height_cm": "192",
+    "wheight_kg": "85",
+    "playerid": "121992"
+  },
+  {
+    "player_num": "15",
+    "player_name": "Maique Reis Nascimento",
+    "position": "Libero",
+    "nationality": "Brazil",
+    "age": "26",
+    "height_cm": "187",
+    "wheight_kg": "78",
+    "playerid": "161939"
+  },
+  {
+    "player_num": "17",
+    "player_name": "Thales Hoss",
+    "position": "Libero",
+    "nationality": "Brazil",
+    "age": "34",
+    "height_cm": "190",
+    "wheight_kg": "74",
+    "playerid": "118916"
+  },
+  {
+    "player_num": "25",
+    "player_name": "Victor Alexsander Almeida Cardoso",
+    "position": "Outside Hitter",
+    "nationality": "Brazil",
+    "age": "24",
+    "height_cm": "199",
+    "wheight_kg": "86",
+    "playerid": "161946"
+  },
+  {
+    "player_num": "4",
+    "player_name": "Jackson Holland",
+    "position": "Libero",
+    "nationality": "Australia",
+    "age": "25",
+    "height_cm": "186",
+    "wheight_kg": "68",
+    "playerid": "160879"
+  },
+  {
+    "player_num": "11",
+    "player_name": "Luke Perry",
+    "position": "Libero",
+    "nationality": "Australia",
+    "age": "28",
+    "height_cm": "180",
+    "wheight_kg": "75",
+    "playerid": "144578"
+  },
+  {
+    "player_num": "15",
+    "player_name": "Conal Tain McAinsh",
+    "position": "Middle blocker",
+    "nationality": "Australia",
+    "age": "26",
+    "height_cm": "202",
+    "wheight_kg": "96",
+    "playerid": "172376"
+  },
+  {
+    "player_num": "3",
+    "player_name": "Jakub Popiwczak",
+    "position": "Libero",
+    "nationality": "Poland",
+    "age": "27",
+    "height_cm": "180",
+    "wheight_kg": "89",
+    "playerid": "153388"
+  },
+  {
+    "player_num": "24",
+    "player_name": "Kamil Szymura",
+    "position": "Libero",
+    "nationality": "Poland",
+    "age": "25",
+    "height_cm": "184",
+    "wheight_kg": "80",
+    "playerid": "164127"
+  },
+  {
+    "player_num": "9",
+    "player_name": "Santiago Danani",
+    "position": "Libero",
+    "nationality": "Argentina",
+    "age": "28",
+    "height_cm": "176",
+    "wheight_kg": "77",
+    "playerid": "153053"
+  },
+  {
+    "player_num": "19",
+    "player_name": "Franco Massimino",
+    "position": "Libero",
+    "nationality": "Argentina",
+    "age": "35",
+    "height_cm": "177",
+    "wheight_kg": "66",
+    "playerid": "135349"
+  },
+  {
+    "player_num": "5",
+    "player_name": "Jérémie Mouiel",
+    "position": "Libero",
+    "nationality": "France",
+    "age": "28",
+    "height_cm": "176",
+    "wheight_kg": "52",
+    "playerid": "142691"
+  },
+  {
+    "player_num": "20",
+    "player_name": "Benjamin Diez",
+    "position": "Libero",
+    "nationality": "France",
+    "age": "25",
+    "height_cm": "183",
+    "wheight_kg": "80",
+    "playerid": "152506"
+  },
+  {
+    "player_num": "24",
+    "player_name": "Mousse Gueye",
+    "position": "Middle blocker",
+    "nationality": "France",
+    "age": "27",
+    "height_cm": "198",
+    "wheight_kg": "84",
+    "playerid": "181197"
+  },
+  {
+    "player_num": "10",
+    "player_name": "Marco Falaschi",
+    "position": "Setter",
+    "nationality": "Italy",
+    "age": "36",
+    "height_cm": "188",
+    "wheight_kg": "85",
+    "playerid": "115843"
+  },
+  {
+    "player_num": "11",
+    "player_name": "Davide Gardini",
+    "position": "Outside Hitter",
+    "nationality": "Italy",
+    "age": "24",
+    "height_cm": "205",
+    "wheight_kg": "94",
+    "playerid": "152422"
+  },
+  {
+    "player_num": "18",
+    "player_name": "Fabrizio Gironi",
+    "position": "Outside Hitter",
+    "nationality": "Italy",
+    "age": "23",
+    "height_cm": "200",
+    "wheight_kg": "81",
+    "playerid": "163032"
+  },
+  {
+    "player_num": "21",
+    "player_name": "Alessandro Piccinelli",
+    "position": "Libero",
+    "nationality": "Italy",
+    "age": "27",
+    "height_cm": "189",
+    "wheight_kg": "98",
+    "playerid": "152412"
+  },
+  {
+    "player_num": "24",
+    "player_name": "Leonardo Scanferla",
+    "position": "Libero",
+    "nationality": "Italy",
+    "age": "25",
+    "height_cm": "184",
+    "wheight_kg": "76",
+    "playerid": "181128"
+  },
+  {
+    "player_num": "16",
+    "player_name": "Vladislav Ivanov",
+    "position": "Libero",
+    "nationality": "Bulgaria",
+    "age": "36",
+    "height_cm": "188",
+    "wheight_kg": "87",
+    "playerid": "118484"
+  },
+  {
+    "player_num": "21",
+    "player_name": "Iliya Petkov",
+    "position": "Middle blocker",
+    "nationality": "Bulgaria",
+    "age": "27",
+    "height_cm": "200",
+    "wheight_kg": "93",
+    "playerid": "168268"
+  },
+  {
+    "player_num": "4",
+    "player_name": "Leonard Graven",
+    "position": "Libero",
+    "nationality": "Germany",
+    "age": "19",
+    "height_cm": "180",
+    "wheight_kg": "68",
+    "playerid": "182291"
+  },
+  {
+    "player_num": "2",
+    "player_name": "Fabio Ricci",
+    "position": "Middle blocker",
+    "nationality": "Italy",
+    "age": "29",
+    "height_cm": "204",
+    "wheight_kg": "96",
+    "playerid": "141638"
+  },
+  {
+    "player_num": "4",
+    "player_name": "Oreste Cavuto",
+    "position": "Outside Hitter",
+    "nationality": "Italy",
+    "age": "27",
+    "height_cm": "196",
+    "wheight_kg": "87",
+    "playerid": "152492"
+  },
+  {
+    "player_num": "7",
+    "player_name": "Fabio Balaso",
+    "position": "Libero",
+    "nationality": "Italy",
+    "age": "28",
+    "height_cm": "178",
+    "wheight_kg": "73",
+    "playerid": "150436"
+  },
+  {
+    "player_num": "12",
+    "player_name": "Grzegorz Lomacz",
+    "position": "Setter",
+    "nationality": "Poland",
+    "age": "36",
+    "height_cm": "187",
+    "wheight_kg": "80",
+    "playerid": "115794"
+  },
+  {
+    "player_num": "17",
+    "player_name": "Pawel Zatorski",
+    "position": "Libero",
+    "nationality": "Poland",
+    "age": "33",
+    "height_cm": "184",
+    "wheight_kg": "73",
+    "playerid": "118614"
+  },
+  {
+    "player_num": "22",
+    "player_name": "Erik Shoji",
+    "position": "Libero",
+    "nationality": "United States",
+    "age": "34",
+    "height_cm": "184",
+    "wheight_kg": "83",
+    "playerid": "119732"
+  },
+  {
+    "player_num": "16",
+    "player_name": "Abolfazl Gholipour Gholchi",
+    "position": "Libero",
+    "nationality": "Iran",
+    "age": "31",
+    "height_cm": "178",
+    "wheight_kg": "63",
+    "playerid": "132534"
+  },
+  {
+    "player_num": "25",
+    "player_name": "Fazel Pazhooman",
+    "position": "Setter",
+    "nationality": "Iran",
+    "age": "30",
+    "height_cm": "204",
+    "wheight_kg": "96",
+    "playerid": "189118"
+  },
+  {
+    "player_num": "2",
+    "player_name": "Leonardo Henrique Andrade",
+    "position": "Middle blocker",
+    "nationality": "Brazil",
+    "age": "21",
+    "height_cm": "203",
+    "wheight_kg": "94",
+    "playerid": "174334"
+  },
+  {
+    "player_num": "20",
+    "player_name": "Henrique Dantas Nóbrega Honorato",
+    "position": "Outside Hitter",
+    "nationality": "Brazil",
+    "age": "26",
+    "height_cm": "190",
+    "wheight_kg": "85",
+    "playerid": "161930"
+  },
+  {
+    "player_num": "17",
+    "player_name": "Korben Phillips",
+    "position": "-",
+    "nationality": "Australia",
+    "age": "21",
+    "height_cm": "197",
+    "wheight_kg": "105",
+    "playerid": "181281"
+  },
+  {
+    "player_num": "13",
+    "player_name": "Mats Bleeker",
+    "position": "Libero",
+    "nationality": "Netherlands",
+    "age": "25",
+    "height_cm": "180",
+    "wheight_kg": "80",
+    "playerid": "184896"
+  },
+  {
+    "player_num": "19",
+    "player_name": "Freek de Weijer",
+    "position": "Setter",
+    "nationality": "Netherlands",
+    "age": "28",
+    "height_cm": "191",
+    "wheight_kg": "93",
+    "playerid": "162642"
+  },
+  {
+    "player_num": "2",
+    "player_name": "Jenia Grebennikov",
+    "position": "Libero",
+    "nationality": "France",
+    "age": "33",
+    "height_cm": "188",
+    "wheight_kg": "85",
+    "playerid": "119792"
+  }
+]
