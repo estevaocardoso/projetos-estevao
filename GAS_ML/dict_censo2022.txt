@@ -1,0 +1,14 @@
+Domicílio particular
+Estabelecimento de outras finalidades
+Estabelecimento de saúde
+Domicílio coletivo
+Estabelecimento agropecuário
+Edificação em construção
+Estabelecimento de ensino
+Estabelecimento religioso
+Face de quadra
+Endereço - coordenada original do Censo 2022
+Setor censitário
+Endereço - coordenada modificada (apartamentos em um mesmo número no logradouro*)
+Endereço - coordenada estimada (endereços originalmente sem coordenadas ou coordenadas inválidas**)
+Localidade

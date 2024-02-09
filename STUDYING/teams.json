@@ -1,0 +1,322 @@
+[
+  {
+    "clubs": "Real Madrid",
+    "trophies": 10,
+    "stadium_grass": "fake",
+    "locate": "Spain",
+    "city": "Madrid",
+    "foundation_date": "1902-03-06"
+  },
+  {
+    "clubs": "Barcelona",
+    "trophies": 9,
+    "stadium_grass": "real",
+    "locate": "Spain",
+    "city": "Barcelona",
+    "foundation_date": "1899-11-29"
+  },
+  {
+    "clubs": "Bayern Munich",
+    "trophies": 10,
+    "stadium_grass": "fake",
+    "locate": "Germany",
+    "city": "Munich",
+    "foundation_date": "1900-02-27"
+  },
+  {
+    "clubs": "Manchester United",
+    "trophies": 20,
+    "stadium_grass": "real",
+    "locate": "England",
+    "city": "Manchester",
+    "foundation_date": "1878-04-01"
+  },
+  {
+    "clubs": "Liverpool",
+    "trophies": 2,
+    "stadium_grass": "real",
+    "locate": "England",
+    "city": "Liverpool",
+    "foundation_date": "1892-06-03"
+  },
+  {
+    "clubs": "Chelsea",
+    "trophies": 3,
+    "stadium_grass": "fake",
+    "locate": "England",
+    "city": "London",
+    "foundation_date": "1905-03-10"
+  },
+  {
+    "clubs": "Manchester City",
+    "trophies": 5,
+    "stadium_grass": "real",
+    "locate": "England",
+    "city": "Manchester",
+    "foundation_date": "1880-04-01"
+  },
+  {
+    "clubs": "Arsenal",
+    "trophies": 39,
+    "stadium_grass": "fake",
+    "locate": "England",
+    "city": "London",
+    "foundation_date": "1886-10-01"
+  },
+  {
+    "clubs": "Tottenham Hotspur",
+    "trophies": 90,
+    "stadium_grass": "real",
+    "locate": "England",
+    "city": "London",
+    "foundation_date": "1882-09-05"
+  },
+  {
+    "clubs": "Juventus",
+    "trophies": 5,
+    "stadium_grass": "fake",
+    "locate": "Italy",
+    "city": "Turin",
+    "foundation_date": "1897-11-01"
+  },
+  {
+    "clubs": "Atlético Madrid",
+    "trophies": 34,
+    "stadium_grass": "fake",
+    "locate": "Spain",
+    "city": "Madrid",
+    "foundation_date": "1903-04-26"
+  },
+  {
+    "clubs": "Inter Milan",
+    "trophies": 19,
+    "stadium_grass": "fake",
+    "locate": "Italy",
+    "city": "Milan",
+    "foundation_date": "1908-03-09"
+  },
+  {
+    "clubs": "Roma",
+    "trophies": 22,
+    "stadium_grass": "fake",
+    "locate": "Italy",
+    "city": "Rome",
+    "foundation_date": "1927-07-07"
+  },
+  {
+    "clubs": "Napoli",
+    "trophies": 2,
+    "stadium_grass": "real",
+    "locate": "Italy",
+    "city": "Naples",
+    "foundation_date": "1926-08-25"
+  },
+  {
+    "clubs": "AC Milan",
+    "trophies": 69,
+    "stadium_grass": "fake",
+    "locate": "Italy",
+    "city": "Milan",
+    "foundation_date": "1899-12-16"
+  },
+  {
+    "clubs": "Lazio",
+    "trophies": 18,
+    "stadium_grass": "fake",
+    "locate": "Italy",
+    "city": "Rome",
+    "foundation_date": "1900-01-09"
+  },
+  {
+    "clubs": "Fiorentina",
+    "trophies": 30,
+    "stadium_grass": "fake",
+    "locate": "Italy",
+    "city": "Florence",
+    "foundation_date": "1926-08-29"
+  },
+  {
+    "clubs": "Atalanta",
+    "trophies": 3,
+    "stadium_grass": "real",
+    "locate": "Italy",
+    "city": "Bergamo",
+    "foundation_date": "1907-10-17"
+  },
+  {
+    "clubs": "Bayer Leverkusen",
+    "trophies": 10,
+    "stadium_grass": "real",
+    "locate": "Germany",
+    "city": "Leverkusen",
+    "foundation_date": "1904-07-01"
+  },
+  {
+    "clubs": "Borussia Dortmund",
+    "trophies": 29,
+    "stadium_grass": "fake",
+    "locate": "Germany",
+    "city": "Dortmund",
+    "foundation_date": "1909-12-19"
+  },
+  {
+    "clubs": "Paris Saint-Germain",
+    "trophies": 30,
+    "stadium_grass": "real",
+    "locate": "France",
+    "city": "Paris",
+    "foundation_date": "1970-08-12"
+  },
+  {
+    "clubs": "Ajax",
+    "trophies": 25,
+    "stadium_grass": "real",
+    "locate": "Netherlands",
+    "city": "Amsterdam",
+    "foundation_date": "1900-03-18"
+  },
+  {
+    "clubs": "Benfica",
+    "trophies": 37,
+    "stadium_grass": "real",
+    "locate": "Portugal",
+    "city": "Lisbon",
+    "foundation_date": "1904-02-28"
+  },
+  {
+    "clubs": "Porto",
+    "trophies": 28,
+    "stadium_grass": "real",
+    "locate": "Portugal",
+    "city": "Porto",
+    "foundation_date": "1893-12-28"
+  },
+  {
+    "clubs": "Anderlecht",
+    "trophies": 34,
+    "stadium_grass": "real",
+    "locate": "Belgium",
+    "city": "Brussels",
+    "foundation_date": "1908-05-27"
+  },
+  {
+    "clubs": "Celtic",
+    "trophies": 51,
+    "stadium_grass": "real",
+    "locate": "Scotland",
+    "city": "Glasgow",
+    "foundation_date": "1887-11-06"
+  },
+  {
+    "clubs": "Feyenoord",
+    "trophies": 15,
+    "stadium_grass": "real",
+    "locate": "Netherlands",
+    "city": "Rotterdam",
+    "foundation_date": "1908-07-19"
+  },
+  {
+    "clubs": "Sevilla",
+    "trophies": 9,
+    "stadium_grass": "real",
+    "locate": "Spain",
+    "city": "Seville",
+    "foundation_date": "1890-01-25"
+  },
+  {
+    "clubs": "Shakhtar Donetsk",
+    "trophies": 15,
+    "stadium_grass": "real",
+    "locate": "Ukraine",
+    "city": "Donetsk",
+    "foundation_date": "1936-05-24"
+  },
+  {
+    "clubs": "Lyon",
+    "trophies": 13,
+    "stadium_grass": "real",
+    "locate": "France",
+    "city": "Lyon",
+    "foundation_date": "1950-08-03"
+  },
+  {
+    "clubs": "Monaco",
+    "trophies": 8,
+    "stadium_grass": "real",
+    "locate": "France",
+    "city": "Monaco",
+    "foundation_date": "1924-08-01"
+  },
+  {
+    "clubs": "Dynamo Kyiv",
+    "trophies": 28,
+    "stadium_grass": "real",
+    "locate": "Ukraine",
+    "city": "Kyiv",
+    "foundation_date": "1927-05-13"
+  },
+  {
+    "clubs": "Copenhagen",
+    "trophies": 17,
+    "stadium_grass": "real",
+    "locate": "Denmark",
+    "city": "Copenhagen",
+    "foundation_date": "1992-07-01"
+  },
+  {
+    "clubs": "Red Bull Salzburg",
+    "trophies": 14,
+    "stadium_grass": "real",
+    "locate": "Austria",
+    "city": "Salzburg",
+    "foundation_date": "1933-09-13"
+  },
+  {
+    "clubs": "Galatasaray",
+    "trophies": 22,
+    "stadium_grass": "real",
+    "locate": "Turkey",
+    "city": "Istanbul",
+    "foundation_date": "1905-10-01"
+  },
+  {
+    "clubs": "Fenerbahçe",
+    "trophies": 28,
+    "stadium_grass": "real",
+    "locate": "Turkey",
+    "city": "Istanbul",
+    "foundation_date": "1907-05-03"
+  },
+  {
+    "clubs": "Besiktas",
+    "trophies": 16,
+    "stadium_grass": "real",
+    "locate": "Turkey",
+    "city": "Istanbul",
+    "foundation_date": "1903-03-19"
+  },
+  {
+    "clubs": "RB Leipzig",
+    "trophies": 2,
+    "stadium_grass": "real",
+    "locate": "Germany",
+    "city": "Leipzig",
+    "foundation_date": "2009-05-19"
+  },
+  {
+    "clubs": "Wolfsburg",
+    "trophies": 2,
+    "stadium_grass": "real",
+    "locate": "Germany",
+    "city": "Wolfsburg",
+    "foundation_date": "1945-09-12"
+  },
+  {
+    "clubs": "Boca Juniors",
+    "trophies": 71,
+    "stadium_grass": "real",
+    "locate": "Argentina",
+    "city": "Buenos Aires",
+    "foundation_date": "1930-09-12"
+  }
+]
