@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dissertacao-419817",
+  "private_key_id": "e0e5233033b5fd546a92dc113b3c5b787d9c984c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDBZB9gQ6r5esjd\n6yNG+rTI/T01k1aCS1hcLRRMqynYu/oBV4bBBfQuG0cWR6ntH59ScnMRf4hEOP3/\n7J8FvwmuA/rJWxYliL5DvjN/H8yNnojAVMNfLUokacWBi7B8e0/iKAWaTF6E/4/E\no2UcJNxsMqLe8tiOmHmBZPwsFAiX7kMaCqzlqKiVhsKwg/RMISTK9c2IclnRp5hy\nDfDDNLl+I46tvX/CdQxmExgijOJEx6mYAUADbiWQt28am98BPGB/FCADNi9ePj/j\nQQL6WqNoO4c2H9cbbpPPxZtowAkZjva2F2w9XeWxT4Bi085TqW3ZUPqqqGu38aCw\nDFqxcuiVAgMBAAECggEAQGd5IYR3kJ0I/wrbVTyR72uSsmBui3bPJudmXsAT8Bdu\nA3tkJ601bBNugad9GjiRRRJTauzncxztzgi9ztqXvSmbH+qjPf3Dq2jQ2pG6/CDj\nVvYDmJNLIUROX72nGVWxvVXpw8CSK8W2Wdy2hABsneXhItGKODbkJCj+6CkF0Z6V\nADUc5sGmjtR5ejWpaZ4Lbyn/jEgLakEioRLJM5dIn5WVklcfZWuc55VuiJHHhMaD\nyHrpo11HbAZoG3bkBvOl5HzvTxj2QvDKYH3L/25PK6RbQ6of+hQokDsJpTwVYB9d\nKzY0tAMwl/6qU7JJ44ruAJKX6N9M7G9AKDCuarrcQwKBgQD4tl5iLecf4ikki28q\nMLtQnrqG5y7dSfJr7B4yMg9YVJGJ+pagDOWQQt+l8f/X7vGPk4sbZWGMCAlxCM/w\nn39NSag4YSJ0BJOaSkvyqhXN8VRdwsEeC/DraBx1Vg1hkPaicYHhu6Nt1/Ms1ptz\nwu3O6+7CdOQiJPyJEu+Lmg7gKwKBgQDHDse4RBv/yJn0vyguv3OWNzSHbPwO1tDo\n0ZMUNGtfSYfS3Mt4QWL00Cii01nwsbZa9pJT0DAAZy04PjRCJ66OTR9ud9GY5vPU\nJ26oG12d66O2jhpEuddYUuGEC7jYpGQSP4M9Ag+d0iHefu3rAk+QLXLSn0Is8hku\nuimLuwA6PwKBgB6CCEvUw6AWluNjsywitCdsgQbhPs9oLbNtUDrqBxXXsc6SDX3u\ndw5eFZ7+c1qidcEd4RdoNTH/HmFeKluixPPPEDJyP86pbQ2lBXHrySbs7mNd62Br\nKI9Hww3lk1ifdpFwiPUOljp4Hd0nKgRmKdOS/0OdIQrLLKsHxpiCOkbnAoGADeuL\nregdaSK3GXVwsuwyghO0ObA2ZDdDfrSBK42K4Kv8spM8K1mvON2BqflLtdhHn07U\n5sWNRcnxUJiRAPtTaqIcC5aXcrDb5j8nrtvTDSMYXMDNN3cjhwqsuJY1Q/kjAl+s\npsyJGQlD0xJfQurzc2qqN+5pK0l211yvYRUfq/MCgYAsaCZBUhJ3eIUysaNNo6FP\nVT8ia2LfUYxe/xVhym00+RFe/RR/6cvWBqX8yjKQpPen8X7jcnxWew5xiPnbPh/M\n480Sv9kCUdN6kjf2Yp229FgZYoaozJUAzTF2nqxTjPkL8Hio+mFYe9aOxH6xjNQ1\nmFTY9XwPQngGrH01gYTIPQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "estev-o@dissertacao-419817.iam.gserviceaccount.com",
+  "client_id": "100462336274233086189",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/estev-o%40dissertacao-419817.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
